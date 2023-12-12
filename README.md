@@ -58,7 +58,7 @@ dalvik.vm.usejitprofiles=true
 
 10.find the end of the file and add :
 
-# Alex's cool additions
+
 wlan.wfd.hdcp=disable
 ro.csc.countryiso_code=DE
 #TODO: maybe implement something in updater.script that sets this reading it from csc or somewhere
