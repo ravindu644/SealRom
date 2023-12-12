@@ -1,0 +1,2737 @@
+13c13
+< .field static final VDBG:Z = false
+---
+> .field static final VDBG:Z
+17c17
+< .field public static m_epic_asInterface_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_asInterface_func:Ljava/lang/reflect/Method;
+19c19
+< .field public static m_epic_handle_cls:Ljava/lang/Class; = null
+---
+> .field public static m_epic_handle_cls:Ljava/lang/Class;
+21c21
+< .field public static m_epic_hint_release_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_hint_release_func:Ljava/lang/reflect/Method;
+23c23
+< .field public static m_epic_init_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_init_func:Ljava/lang/reflect/Method;
+25c25
+< .field public static m_epic_init_multi_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_init_multi_func:Ljava/lang/reflect/Method;
+27c27
+< .field public static m_epic_perf_hint_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_perf_hint_func:Ljava/lang/reflect/Method;
+29c29
+< .field public static m_epic_release_conditional_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_release_conditional_func:Ljava/lang/reflect/Method;
+31c31
+< .field public static m_epic_release_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_release_func:Ljava/lang/reflect/Method;
+33c33
+< .field public static m_epic_request_cls:Ljava/lang/Class; = null
+---
+> .field public static m_epic_request_cls:Ljava/lang/Class;
+35c35
+< .field public static m_epic_request_conditional_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_request_conditional_func:Ljava/lang/reflect/Method;
+37c37
+< .field public static m_epic_request_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_request_func:Ljava/lang/reflect/Method;
+39c39
+< .field public static m_epic_request_opt_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_request_opt_func:Ljava/lang/reflect/Method;
+41c41
+< .field public static m_epic_request_opt_multi_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_request_opt_multi_func:Ljava/lang/reflect/Method;
+43c43
+< .field public static m_epic_request_stub_cls:Ljava/lang/Class; = null
+---
+> .field public static m_epic_request_stub_cls:Ljava/lang/Class;
+45c45
+< .field public static m_has_load:Z = false
+---
+> .field public static m_has_load:Z
+13c13
+< .field public static m_epic_getservice_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_getservice_func:Ljava/lang/reflect/Method;
+15c15
+< .field public static m_epic_handle_cls:Ljava/lang/Class; = null
+---
+> .field public static m_epic_handle_cls:Ljava/lang/Class;
+17c17
+< .field public static m_epic_hint_release_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_hint_release_func:Ljava/lang/reflect/Method;
+19c19
+< .field public static m_epic_init_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_init_func:Ljava/lang/reflect/Method;
+21c21
+< .field public static m_epic_init_multi_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_init_multi_func:Ljava/lang/reflect/Method;
+23c23
+< .field public static m_epic_perf_hint_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_perf_hint_func:Ljava/lang/reflect/Method;
+25c25
+< .field public static m_epic_release_conditional_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_release_conditional_func:Ljava/lang/reflect/Method;
+27c27
+< .field public static m_epic_release_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_release_func:Ljava/lang/reflect/Method;
+29c29
+< .field public static m_epic_request_cls:Ljava/lang/Class; = null
+---
+> .field public static m_epic_request_cls:Ljava/lang/Class;
+31c31
+< .field public static m_epic_request_conditional_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_request_conditional_func:Ljava/lang/reflect/Method;
+33c33
+< .field public static m_epic_request_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_request_func:Ljava/lang/reflect/Method;
+35c35
+< .field public static m_epic_request_opt_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_request_opt_func:Ljava/lang/reflect/Method;
+37c37
+< .field public static m_epic_request_opt_multi_func:Ljava/lang/reflect/Method; = null
+---
+> .field public static m_epic_request_opt_multi_func:Ljava/lang/reflect/Method;
+39c39
+< .field public static m_has_load:Z = false
+---
+> .field public static m_has_load:Z
+11c11
+< .field public static m_has_load:Z = false
+---
+> .field public static m_has_load:Z
+12c12
+< .field public static SEC_DEBUG:Z = false
+---
+> .field public static SEC_DEBUG:Z
+10c10
+< .field public static SEC_DEBUG:Z = false
+---
+> .field public static SEC_DEBUG:Z
+13c13
+< .field public static SEC_DEBUG:Z = false
+---
+> .field public static SEC_DEBUG:Z
+11c11
+< .field public static SEC_DEBUG:Z = false
+---
+> .field public static SEC_DEBUG:Z
+22c22
+< .field public static SEC_DEBUG:Z = false
+---
+> .field public static SEC_DEBUG:Z
+9c9
+< .field public static mContext:Landroid/content/Context; = null
+---
+> .field public static mContext:Landroid/content/Context;
+11c11
+< .field public static volatile mIsBroadcastEnabled:Z = false
+---
+> .field public static volatile mIsBroadcastEnabled:Z
+7c7
+< .field public static CORE_DEFER_UNTIL_ACTIVE:Z = false
+---
+> .field public static CORE_DEFER_UNTIL_ACTIVE:Z
+7c7
+< .field public static BORA_POLICY_ENABLE:Z = false
+---
+> .field public static BORA_POLICY_ENABLE:Z
+9c9
+< .field public static DEBUG:Z = false
+---
+> .field public static DEBUG:Z
+7c7
+< .field public static AUFAllowBucketSize:I = 0x0
+---
+> .field public static AUFAllowBucketSize:I
+9c9
+< .field public static App_StartUp_History:Z = false
+---
+> .field public static App_StartUp_History:Z
+11c11
+< .field public static ENABLE_KILL_LONG_RUNNING_PROCESS:Z = false
+---
+> .field public static ENABLE_KILL_LONG_RUNNING_PROCESS:Z
+13c13
+< .field public static FGS_BATTERY_USAGE_THRESHOLD:I = 0x0
+---
+> .field public static FGS_BATTERY_USAGE_THRESHOLD:I
+15c15
+< .field public static GlobalModelWithChinaSIM:Z = false
+---
+> .field public static GlobalModelWithChinaSIM:Z
+19c19
+< .field public static MARs_ENABLE:Z = false
+---
+> .field public static MARs_ENABLE:Z
+9c9
+< .field public static ENABLED:Z = false
+---
+> .field public static ENABLED:Z
+9c9
+< .field public static record_ongoing:Z = false
+---
+> .field public static record_ongoing:Z
+7c7
+< .field public static ENABLED:Z = false
+---
+> .field public static ENABLED:Z
+7c7
+< .field public static sDebug:Z = false
+---
+> .field public static sDebug:Z
+9c9
+< .field public static sFullScreenMode:Ljava/lang/Boolean; = null
+---
+> .field public static sFullScreenMode:Ljava/lang/Boolean;
+11c11
+< .field public static sVerbose:Z = false
+---
+> .field public static sVerbose:Z
+7c7
+< .field public static mPrivilegeApp:Z = false
+---
+> .field public static mPrivilegeApp:Z
+12c12
+< .field public static mFirstTriggeredAfterBooting:Z = false
+---
+> .field public static mFirstTriggeredAfterBooting:Z
+9c9
+< .field public static availableMemSaveCount:I = 0x0
+---
+> .field public static availableMemSaveCount:I
+11c11
+< .field public static availableMemUpdateFlag:Z = false
+---
+> .field public static availableMemUpdateFlag:Z
+7c7
+< .field public static mFirstTriggeredAfterBooting:Z = false
+---
+> .field public static mFirstTriggeredAfterBooting:Z
+11c11
+< .field public static mDryrun:Z = false
+---
+> .field public static mDryrun:Z
+7c7
+< .field public static mGalaxyDiag:Z = false
+---
+> .field public static mGalaxyDiag:Z
+9c9
+< .field public static final mIsJDMDevice:Z = false
+---
+> .field public static final mIsJDMDevice:Z
+11c11
+< .field public static filteredAPIs:Ljava/util/ArrayList; = null
+---
+> .field public static filteredAPIs:Ljava/util/ArrayList;
+13c13
+< .field public static isActive:Z = false
+---
+> .field public static isActive:Z
+9c9
+< .field public static TUNE_MODE:Z = false
+---
+> .field public static TUNE_MODE:Z
+10c10
+< .field public static isBlockerRegistered:Z = false
+---
+> .field public static isBlockerRegistered:Z
+12c12
+< .field public static mHasIpv6FilterSupport:Z = false
+---
+> .field public static mHasIpv6FilterSupport:Z
+14c14
+< .field public static mHasIpv6NatSupport:Z = false
+---
+> .field public static mHasIpv6NatSupport:Z
+7c7
+< .field public static mIBSEnable:Z = false
+---
+> .field public static mIBSEnable:Z
+7c7
+< .field public static delayDataLockOnceForDeviceOwner:Z = false
+---
+> .field public static delayDataLockOnceForDeviceOwner:Z
+9c9
+< .field public static mSystemReady:Z = false
+---
+> .field public static mSystemReady:Z
+9c9
+< .field public static mSystemReady:Z = false
+---
+> .field public static mSystemReady:Z
+2409,2510c2409
+<     .registers 7
+< 
+<     .line 366
+<     invoke-virtual {p0}, Lcom/android/server/knox/dar/DarManagerService;->isGRDMSupported()Z
+< 
+<     move-result v0
+< 
+<     const-string v1, "DarManagerService"
+< 
+<     if-eqz v0, :cond_16
+< 
+<     const-string v0, "Check SAK instead for GRDM device"
+< 
+<     .line 367
+<     invoke-static {v1, v0}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+< 
+<     .line 368
+<     invoke-virtual {p0}, Lcom/android/server/knox/dar/DarManagerService;->isSAKInstalled()Z
+< 
+<     move-result p0
+< 
+<     invoke-static {p0}, Lcom/android/server/knox/dar/SecureUtil;->record(Z)Z
+< 
+<     move-result p0
+< 
+<     return p0
+< 
+<     .line 372
+<     :cond_16
+<     iget-object v0, p0, Lcom/android/server/knox/dar/DarManagerService;->mInjector:Lcom/android/server/knox/dar/DarManagerService$Injector;
+< 
+<     invoke-virtual {v0}, Lcom/android/server/knox/dar/DarManagerService$Injector;->binderClearCallingIdentity()J
+< 
+<     move-result-wide v2
+< 
+<     const/4 v0, 0x0
+< 
+<     .line 374
+<     :try_start_1d
+<     new-instance v4, Lcom/samsung/android/service/DeviceRootKeyService/DeviceRootKeyServiceManager;
+< 
+<     iget-object v5, p0, Lcom/android/server/knox/dar/DarManagerService;->mContext:Landroid/content/Context;
+< 
+<     invoke-direct {v4, v5}, Lcom/samsung/android/service/DeviceRootKeyService/DeviceRootKeyServiceManager;-><init>(Landroid/content/Context;)V
+< 
+<     .line 375
+<     invoke-virtual {v4}, Lcom/samsung/android/service/DeviceRootKeyService/DeviceRootKeyServiceManager;->isAliveDeviceRootKeyService()Z
+< 
+<     move-result v5
+< 
+<     if-nez v5, :cond_30
+< 
+<     const-string v4, "DRK service is not ready..."
+< 
+<     .line 376
+<     invoke-static {v1, v4}, Landroid/util/Log;->e(Ljava/lang/String;Ljava/lang/String;)I
+< 
+<     goto :goto_3c
+< 
+<     :cond_30
+<     const/4 v1, 0x1
+< 
+<     .line 378
+<     invoke-virtual {v4, v1}, Lcom/samsung/android/service/DeviceRootKeyService/DeviceRootKeyServiceManager;->isExistDeviceRootKey(I)Z
+< 
+<     move-result v0
+<     :try_end_35
+<     .catch Ljava/lang/Exception; {:try_start_1d .. :try_end_35} :catch_38
+<     .catchall {:try_start_1d .. :try_end_35} :catchall_36
+< 
+<     goto :goto_3c
+< 
+<     :catchall_36
+<     move-exception v0
+< 
+<     goto :goto_46
+< 
+<     :catch_38
+<     move-exception v1
+< 
+<     .line 382
+<     :try_start_39
+<     invoke-virtual {v1}, Ljava/lang/Exception;->printStackTrace()V
+<     :try_end_3c
+<     .catchall {:try_start_39 .. :try_end_3c} :catchall_36
+< 
+<     .line 384
+<     :goto_3c
+<     iget-object p0, p0, Lcom/android/server/knox/dar/DarManagerService;->mInjector:Lcom/android/server/knox/dar/DarManagerService$Injector;
+< 
+<     invoke-virtual {p0, v2, v3}, Lcom/android/server/knox/dar/DarManagerService$Injector;->binderRestoreCallingIdentity(J)V
+< 
+<     .line 386
+<     invoke-static {v0}, Lcom/android/server/knox/dar/SecureUtil;->record(Z)Z
+< 
+<     move-result p0
+< 
+<     return p0
+< 
+<     .line 384
+<     :goto_46
+<     iget-object p0, p0, Lcom/android/server/knox/dar/DarManagerService;->mInjector:Lcom/android/server/knox/dar/DarManagerService$Injector;
+---
+>     .registers 2
+2512c2411
+<     invoke-virtual {p0, v2, v3}, Lcom/android/server/knox/dar/DarManagerService$Injector;->binderRestoreCallingIdentity(J)V
+---
+>     const/4 v0, 0x1
+2514,2515c2413
+<     .line 385
+<     throw v0
+---
+>     return v0
+2597,2689c2495
+<     .registers 8
+< 
+<     const-string v0, "KnoxTestKey"
+< 
+<     .line 416
+<     iget-object v1, p0, Lcom/android/server/knox/dar/DarManagerService;->mInjector:Lcom/android/server/knox/dar/DarManagerService$Injector;
+< 
+<     invoke-virtual {v1}, Lcom/android/server/knox/dar/DarManagerService$Injector;->binderClearCallingIdentity()J
+< 
+<     move-result-wide v1
+< 
+<     const/4 v3, 0x0
+< 
+<     .line 418
+<     :try_start_9
+<     new-instance v4, Lcom/samsung/android/security/keystore/AttestationUtils;
+< 
+<     invoke-direct {v4}, Lcom/samsung/android/security/keystore/AttestationUtils;-><init>()V
+< 
+<     .line 419
+<     new-instance v5, Lcom/samsung/android/security/keystore/AttestParameterSpec$Builder;
+< 
+<     const/16 v6, 0x8
+< 
+<     .line 420
+<     invoke-static {v6}, Lcom/android/server/knox/dar/SecureUtil;->generateRandomBytes(I)[B
+< 
+<     move-result-object v6
+< 
+<     invoke-direct {v5, v0, v6}, Lcom/samsung/android/security/keystore/AttestParameterSpec$Builder;-><init>(Ljava/lang/String;[B)V
+< 
+<     const/4 v6, 0x1
+< 
+<     .line 421
+<     invoke-virtual {v5, v6}, Lcom/samsung/android/security/keystore/AttestParameterSpec$Builder;->setVerifiableIntegrity(Z)Lcom/samsung/android/security/keystore/AttestParameterSpec$Builder;
+< 
+<     move-result-object v5
+< 
+<     .line 422
+<     invoke-virtual {v5}, Lcom/samsung/android/security/keystore/AttestParameterSpec$Builder;->build()Lcom/samsung/android/security/keystore/AttestParameterSpec;
+< 
+<     move-result-object v5
+< 
+<     invoke-virtual {v4, v5}, Lcom/samsung/android/security/keystore/AttestationUtils;->generateKeyPair(Lcom/samsung/android/security/keystore/AttestParameterSpec;)Ljava/security/KeyPair;
+< 
+<     move-result-object v5
+< 
+<     if-eqz v5, :cond_3c
+< 
+<     .line 424
+<     invoke-virtual {v4, v0}, Lcom/samsung/android/security/keystore/AttestationUtils;->getCertificateChain(Ljava/lang/String;)[Ljava/security/cert/Certificate;
+< 
+<     move-result-object v5
+< 
+<     invoke-virtual {p0, v5}, Lcom/android/server/knox/dar/DarManagerService;->checkDeviceIntegrity([Ljava/security/cert/Certificate;)Z
+< 
+<     move-result v3
+< 
+<     if-eqz v3, :cond_3c
+< 
+<     .line 426
+<     invoke-virtual {v4, v0}, Lcom/samsung/android/security/keystore/AttestationUtils;->deleteKey(Ljava/lang/String;)V
+<     :try_end_35
+<     .catch Ljava/lang/Exception; {:try_start_9 .. :try_end_35} :catch_38
+<     .catchall {:try_start_9 .. :try_end_35} :catchall_36
+< 
+<     goto :goto_3c
+< 
+<     :catchall_36
+<     move-exception v0
+< 
+<     goto :goto_42
+< 
+<     :catch_38
+<     move-exception v0
+< 
+<     .line 430
+<     :try_start_39
+<     invoke-virtual {v0}, Ljava/lang/Exception;->printStackTrace()V
+<     :try_end_3c
+<     .catchall {:try_start_39 .. :try_end_3c} :catchall_36
+< 
+<     .line 432
+<     :cond_3c
+<     :goto_3c
+<     iget-object p0, p0, Lcom/android/server/knox/dar/DarManagerService;->mInjector:Lcom/android/server/knox/dar/DarManagerService$Injector;
+< 
+<     invoke-virtual {p0, v1, v2}, Lcom/android/server/knox/dar/DarManagerService$Injector;->binderRestoreCallingIdentity(J)V
+< 
+<     return v3
+< 
+<     :goto_42
+<     iget-object p0, p0, Lcom/android/server/knox/dar/DarManagerService;->mInjector:Lcom/android/server/knox/dar/DarManagerService$Injector;
+---
+>     .registers 2
+2691c2497
+<     invoke-virtual {p0, v1, v2}, Lcom/android/server/knox/dar/DarManagerService$Injector;->binderRestoreCallingIdentity(J)V
+---
+>     const/4 v0, 0x1
+2693,2694c2499
+<     .line 433
+<     throw v0
+---
+>     return v0
+7c7
+< .field public static mIsDeviceOwnerEnabled:Z = false
+---
+> .field public static mIsDeviceOwnerEnabled:Z
+9c9
+< .field public static mIsNfwLocationAccessProxyAppsUpdated:Z = false
+---
+> .field public static mIsNfwLocationAccessProxyAppsUpdated:Z
+228c228
+< .field public static isDesktopMode:Z = false
+---
+> .field public static isDesktopMode:Z
+230c230
+< .field public static knoxCustomReceiver:Landroid/content/BroadcastReceiver; = null
+---
+> .field public static knoxCustomReceiver:Landroid/content/BroadcastReceiver;
+232c232
+< .field public static lockScreenOverrideMode:I = 0x0
+---
+> .field public static lockScreenOverrideMode:I
+234c234
+< .field public static mFuturePP:Ljava/util/concurrent/Future; = null
+---
+> .field public static mFuturePP:Ljava/util/concurrent/Future;
+236c236
+< .field public static usbPlugged:Z = false
+---
+> .field public static usbPlugged:Z
+238c238
+< .field public static wifiConfigure:Z = false
+---
+> .field public static wifiConfigure:Z
+240c240
+< .field public static wifiEap:Z = false
+---
+> .field public static wifiEap:Z
+1190c1190
+<     const/4 v0, 0x1
+---
+>     const/4 v0, 0x0
+11c11
+< .field public static sIsDmaSupported:Z = false
+---
+> .field public static sIsDmaSupported:Z
+13c13
+< .field public static sIsDmaVersionChecked:Z = false
+---
+> .field public static sIsDmaVersionChecked:Z
+168c168
+<     iget-boolean p0, p0, Lcom/samsung/android/security/keystore/AttestParameterSpec;->mVerifiableIntegrity:Z
+---
+>     const/4 p0, 0x1
+7c7
+< .field public static sIsSoundAliveExist:Z = false
+---
+> .field public static sIsSoundAliveExist:Z
+9c9
+< .field public static mAudioServerResetCount:I = 0x0
+---
+> .field public static mAudioServerResetCount:I
+11c11
+< .field public static mAudioServerResetCountMaxLimit:Z = false
+---
+> .field public static mAudioServerResetCountMaxLimit:Z
+7c7
+< .field public static sIsFactoryMode:Z = false
+---
+> .field public static sIsFactoryMode:Z
+7c7
+< .field public static sInstance:Lcom/samsung/android/server/audio/ScreenSharingHelper; = null
+---
+> .field public static sInstance:Lcom/samsung/android/server/audio/ScreenSharingHelper;
+9c9
+< .field public static sIsWifiDisplayConnected:Z = false
+---
+> .field public static sIsWifiDisplayConnected:Z
+11c11
+< .field public static sSplitSoundEnabled:Z = false
+---
+> .field public static sSplitSoundEnabled:Z
+7c7
+< .field public static FW_BR_ALLOW_LIST_WITH_SCPM:Z = false
+---
+> .field public static FW_BR_ALLOW_LIST_WITH_SCPM:Z
+11c11
+< .field public static sArtManagerLocalIsInitialized:Z = false
+---
+> .field public static sArtManagerLocalIsInitialized:Z
+1095,1103c1095
+<     .registers 8
+< 
+<     const/4 v0, 0x1
+< 
+<     if-nez p0, :cond_8
+< 
+<     if-nez p1, :cond_6
+< 
+<     goto :goto_7
+---
+>     .registers 9
+1105,1106c1097
+<     :cond_6
+<     const/4 v0, -0x1
+---
+>     const/4 v0, 0x0
+1108d1098
+<     :goto_7
+1110,1211d1099
+< 
+<     :cond_8
+<     if-nez p1, :cond_c
+< 
+<     const/4 p0, -0x2
+< 
+<     return p0
+< 
+<     .line 429
+<     :cond_c
+<     array-length v1, p0
+< 
+<     array-length v2, p1
+< 
+<     const/4 v3, -0x3
+< 
+<     if-eq v1, v2, :cond_12
+< 
+<     return v3
+< 
+<     .line 434
+<     :cond_12
+<     array-length v1, p0
+< 
+<     const/4 v2, 0x0
+< 
+<     if-ne v1, v0, :cond_22
+< 
+<     .line 435
+<     aget-object p0, p0, v2
+< 
+<     aget-object p1, p1, v2
+< 
+<     invoke-virtual {p0, p1}, Landroid/content/pm/Signature;->equals(Ljava/lang/Object;)Z
+< 
+<     move-result p0
+< 
+<     if-eqz p0, :cond_21
+< 
+<     move v3, v2
+< 
+<     :cond_21
+<     return v3
+< 
+<     .line 440
+<     :cond_22
+<     new-instance v0, Landroid/util/ArraySet;
+< 
+<     invoke-direct {v0}, Landroid/util/ArraySet;-><init>()V
+< 
+<     .line 441
+<     array-length v1, p0
+< 
+<     move v4, v2
+< 
+<     :goto_29
+<     if-ge v4, v1, :cond_33
+< 
+<     aget-object v5, p0, v4
+< 
+<     .line 442
+<     invoke-virtual {v0, v5}, Landroid/util/ArraySet;->add(Ljava/lang/Object;)Z
+< 
+<     add-int/lit8 v4, v4, 0x1
+< 
+<     goto :goto_29
+< 
+<     .line 444
+<     :cond_33
+<     new-instance p0, Landroid/util/ArraySet;
+< 
+<     invoke-direct {p0}, Landroid/util/ArraySet;-><init>()V
+< 
+<     .line 445
+<     array-length v1, p1
+< 
+<     move v4, v2
+< 
+<     :goto_3a
+<     if-ge v4, v1, :cond_44
+< 
+<     aget-object v5, p1, v4
+< 
+<     .line 446
+<     invoke-virtual {p0, v5}, Landroid/util/ArraySet;->add(Ljava/lang/Object;)Z
+< 
+<     add-int/lit8 v4, v4, 0x1
+< 
+<     goto :goto_3a
+< 
+<     .line 449
+<     :cond_44
+<     invoke-virtual {v0, p0}, Landroid/util/ArraySet;->equals(Ljava/lang/Object;)Z
+< 
+<     move-result p0
+< 
+<     if-eqz p0, :cond_4b
+< 
+<     return v2
+< 
+<     :cond_4b
+<     return v3
+3781,3909c3669
+<     .line 475
+<     new-instance v0, Landroid/util/ArraySet;
+< 
+<     invoke-direct {v0}, Landroid/util/ArraySet;-><init>()V
+< 
+<     .line 476
+<     iget-object v1, p1, Lcom/android/server/pm/PackageSignatures;->mSigningDetails:Landroid/content/pm/SigningDetails;
+< 
+<     invoke-virtual {v1}, Landroid/content/pm/SigningDetails;->getSignatures()[Landroid/content/pm/Signature;
+< 
+<     move-result-object v1
+< 
+<     array-length v2, v1
+< 
+<     const/4 v3, 0x0
+< 
+<     move v4, v3
+< 
+<     :goto_e
+<     if-ge v4, v2, :cond_18
+< 
+<     aget-object v5, v1, v4
+< 
+<     .line 477
+<     invoke-virtual {v0, v5}, Landroid/util/ArraySet;->add(Ljava/lang/Object;)Z
+< 
+<     add-int/lit8 v4, v4, 0x1
+< 
+<     goto :goto_e
+< 
+<     .line 479
+<     :cond_18
+<     new-instance v1, Landroid/util/ArraySet;
+< 
+<     invoke-direct {v1}, Landroid/util/ArraySet;-><init>()V
+< 
+<     .line 480
+<     invoke-virtual {p2}, Landroid/content/pm/SigningDetails;->getSignatures()[Landroid/content/pm/Signature;
+< 
+<     move-result-object v2
+< 
+<     array-length v4, v2
+< 
+<     move v5, v3
+< 
+<     :goto_23
+<     if-ge v5, v4, :cond_3d
+< 
+<     aget-object v6, v2, v5
+< 
+<     .line 482
+<     :try_start_27
+<     invoke-virtual {v6}, Landroid/content/pm/Signature;->getChainSignatures()[Landroid/content/pm/Signature;
+< 
+<     move-result-object v7
+< 
+<     .line 483
+<     array-length v8, v7
+< 
+<     move v9, v3
+< 
+<     :goto_2d
+<     if-ge v9, v8, :cond_3a
+< 
+<     aget-object v10, v7, v9
+< 
+<     .line 484
+<     invoke-virtual {v1, v10}, Landroid/util/ArraySet;->add(Ljava/lang/Object;)Z
+<     :try_end_34
+<     .catch Ljava/security/cert/CertificateEncodingException; {:try_start_27 .. :try_end_34} :catch_37
+< 
+<     add-int/lit8 v9, v9, 0x1
+< 
+<     goto :goto_2d
+< 
+<     .line 487
+<     :catch_37
+<     invoke-virtual {v1, v6}, Landroid/util/ArraySet;->add(Ljava/lang/Object;)Z
+< 
+<     :cond_3a
+<     add-int/lit8 v5, v5, 0x1
+< 
+<     goto :goto_23
+< 
+<     .line 491
+<     :cond_3d
+<     invoke-virtual {v1, v0}, Landroid/util/ArraySet;->equals(Ljava/lang/Object;)Z
+< 
+<     move-result v0
+< 
+<     if-eqz v0, :cond_47
+< 
+<     .line 493
+<     iput-object p2, p1, Lcom/android/server/pm/PackageSignatures;->mSigningDetails:Landroid/content/pm/SigningDetails;
+< 
+<     const/4 p0, 0x1
+< 
+<     return p0
+< 
+<     .line 495
+<     :cond_47
+<     invoke-virtual {p2}, Landroid/content/pm/SigningDetails;->hasPastSigningCertificates()Z
+< 
+<     move-result p1
+< 
+<     if-eqz p1, :cond_67
+< 
+<     .line 500
+<     new-instance p1, Ljava/lang/StringBuilder;
+< 
+<     invoke-direct {p1}, Ljava/lang/StringBuilder;-><init>()V
+< 
+<     const-string p2, "Existing package "
+< 
+<     invoke-virtual {p1, p2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< 
+<     invoke-virtual {p1, p0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< 
+<     const-string p0, " has flattened signing certificate chain. Unable to install newer version with rotated signing certificate."
+< 
+<     invoke-virtual {p1, p0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< 
+<     invoke-virtual {p1}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+< 
+<     move-result-object p0
+< 
+<     const/4 p1, 0x4
+< 
+<     invoke-static {p1, p0}, Lcom/android/server/pm/PackageManagerServiceUtils;->logCriticalInfo(ILjava/lang/String;)V
+---
+>     const/4 v0, 0x0
+3911,3912c3671
+<     :cond_67
+<     return v3
+---
+>     return v0
+3916,3986c3675,3679
+<     .registers 5
+< 
+<     const/4 v0, 0x4
+< 
+<     .line 514
+<     :try_start_1
+<     invoke-virtual {p2, p1, p3}, Landroid/content/pm/SigningDetails;->checkCapabilityRecover(Landroid/content/pm/SigningDetails;I)Z
+< 
+<     move-result p1
+< 
+<     if-eqz p1, :cond_1d
+< 
+<     .line 515
+<     new-instance p1, Ljava/lang/StringBuilder;
+< 
+<     invoke-direct {p1}, Ljava/lang/StringBuilder;-><init>()V
+< 
+<     const-string p2, "Recovered effectively matching certificates for "
+< 
+<     invoke-virtual {p1, p2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< 
+<     invoke-virtual {p1, p0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< 
+<     invoke-virtual {p1}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+< 
+<     move-result-object p1
+< 
+<     invoke-static {v0, p1}, Lcom/android/server/pm/PackageManagerServiceUtils;->logCriticalInfo(ILjava/lang/String;)V
+<     :try_end_1b
+<     .catch Ljava/security/cert/CertificateException; {:try_start_1 .. :try_end_1b} :catch_1f
+< 
+<     const/4 p0, 0x1
+< 
+<     return p0
+< 
+<     :cond_1d
+<     const/4 p1, 0x0
+< 
+<     goto :goto_24
+< 
+<     :catch_1f
+<     move-exception p1
+< 
+<     .line 520
+<     invoke-virtual {p1}, Ljava/security/cert/CertificateException;->getMessage()Ljava/lang/String;
+< 
+<     move-result-object p1
+< 
+<     .line 522
+<     :goto_24
+<     new-instance p2, Ljava/lang/StringBuilder;
+< 
+<     invoke-direct {p2}, Ljava/lang/StringBuilder;-><init>()V
+< 
+<     const-string p3, "Failed to recover certificates for "
+< 
+<     invoke-virtual {p2, p3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< 
+<     invoke-virtual {p2, p0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< 
+<     const-string p0, ": "
+< 
+<     invoke-virtual {p2, p0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< 
+<     invoke-virtual {p2, p1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< 
+<     invoke-virtual {p2}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+< 
+<     move-result-object p0
+< 
+<     invoke-static {v0, p0}, Lcom/android/server/pm/PackageManagerServiceUtils;->logCriticalInfo(ILjava/lang/String;)V
+---
+>     .registers 8
+>     .param p3    # I
+>         .annotation build Landroid/content/pm/PackageParser$SigningDetails$CertCapabilities;
+>         .end annotation
+>     .end param
+3988c3681
+<     const/4 p0, 0x0
+---
+>     const/4 v0, 0x0
+3990c3683
+<     return p0
+---
+>     return v0
+7c7
+< .field public static mDevicePolicyManager:Landroid/app/admin/IDevicePolicyManager; = null
+---
+> .field public static mDevicePolicyManager:Landroid/app/admin/IDevicePolicyManager;
+9c9
+< .field public static mSystemReady:Z = false
+---
+> .field public static mSystemReady:Z
+292c292
+<     const-string v11, "5"
+---
+>     const-string v11, "4"
+13c13
+< .field public static METRIC_AM:Ljava/lang/String; = null
+---
+> .field public static METRIC_AM:Ljava/lang/String;
+15c15
+< .field public static METRIC_PM:Ljava/lang/String; = null
+---
+> .field public static METRIC_PM:Ljava/lang/String;
+17c17
+< .field public static METRIC_RADIO:Ljava/lang/String; = null
+---
+> .field public static METRIC_RADIO:Ljava/lang/String;
+19c19
+< .field public static METRIC_RADIOS:Ljava/lang/String; = null
+---
+> .field public static METRIC_RADIOS:Ljava/lang/String;
+21c21
+< .field public static METRIC_SEND_BROADCAST:Ljava/lang/String; = null
+---
+> .field public static METRIC_SEND_BROADCAST:Ljava/lang/String;
+23c23
+< .field public static METRIC_SHUTDOWN_TIME_START:Ljava/lang/String; = null
+---
+> .field public static METRIC_SHUTDOWN_TIME_START:Ljava/lang/String;
+25c25
+< .field public static METRIC_SYSTEM_SERVER:Ljava/lang/String; = null
+---
+> .field public static METRIC_SYSTEM_SERVER:Ljava/lang/String;
+31c31
+< .field public static currentTimeMillisStart:J = 0x0L
+---
+> .field public static currentTimeMillisStart:J
+33c33
+< .field public static dlgAnim:Lcom/android/server/power/ShutdownDialog; = null
+---
+> .field public static dlgAnim:Lcom/android/server/power/ShutdownDialog;
+35c35
+< .field public static logFileWriter:Lcom/android/server/power/ShutdownThread$LogFileWriter; = null
+---
+> .field public static logFileWriter:Lcom/android/server/power/ShutdownThread$LogFileWriter;
+37c37
+< .field public static mCallerName:Ljava/lang/String; = null
+---
+> .field public static mCallerName:Ljava/lang/String;
+39c39
+< .field public static mReason:Ljava/lang/String; = null
+---
+> .field public static mReason:Ljava/lang/String;
+41c41
+< .field public static mReboot:Z = false
+---
+> .field public static mReboot:Z
+43c43
+< .field public static mRebootHasProgressBar:Z = false
+---
+> .field public static mRebootHasProgressBar:Z
+45c45
+< .field public static mRebootSafeMode:Z = false
+---
+> .field public static mRebootSafeMode:Z
+47c47
+< .field public static mSupportQmg:Z = false
+---
+> .field public static mSupportQmg:Z
+51c51
+< .field public static sIsRestrict:Z = false
+---
+> .field public static sIsRestrict:Z
+53c53
+< .field public static sIsStarted:Z = false
+---
+> .field public static sIsStarted:Z
+7c7
+< .field public static sDeviceTypeProperty:Ljava/lang/String; = null
+---
+> .field public static sDeviceTypeProperty:Ljava/lang/String;
+9c9
+< .field public static sHardwareProperty:Ljava/lang/String; = null
+---
+> .field public static sHardwareProperty:Ljava/lang/String;
+11c11
+< .field public static sInstance:Lcom/android/server/sepunion/cover/Feature; = null
+---
+> .field public static sInstance:Lcom/android/server/sepunion/cover/Feature;
+13c13
+< .field public static sIsDeviceSupportDetectCover:Z = false
+---
+> .field public static sIsDeviceSupportDetectCover:Z
+15c15
+< .field public static sIsDeviceSupportQueried:Z = false
+---
+> .field public static sIsDeviceSupportQueried:Z
+17c17
+< .field public static sIsDeviceSupportVerifyCover:Z = false
+---
+> .field public static sIsDeviceSupportVerifyCover:Z
+19c19
+< .field public static sIsNfcAuthSystemFeatureEnabled:Z = false
+---
+> .field public static sIsNfcAuthSystemFeatureEnabled:Z
+21c21
+< .field public static sIsSupportClearCameraViewCover:Z = false
+---
+> .field public static sIsSupportClearCameraViewCover:Z
+23c23
+< .field public static sIsSupportClearCover:Z = false
+---
+> .field public static sIsSupportClearCover:Z
+25c25
+< .field public static sIsSupportClearSideViewCover:Z = false
+---
+> .field public static sIsSupportClearSideViewCover:Z
+27c27
+< .field public static sIsSupportFlipCover:Z = false
+---
+> .field public static sIsSupportFlipCover:Z
+29c29
+< .field public static sIsSupportGamePackCover:Z = false
+---
+> .field public static sIsSupportGamePackCover:Z
+31c31
+< .field public static sIsSupportLEDBackCover:Z = false
+---
+> .field public static sIsSupportLEDBackCover:Z
+33c33
+< .field public static sIsSupportMiniSviewWalletCover:Z = false
+---
+> .field public static sIsSupportMiniSviewWalletCover:Z
+35c35
+< .field public static sIsSupportNeonCover:Z = false
+---
+> .field public static sIsSupportNeonCover:Z
+37c37
+< .field public static sIsSupportNfcLedCover:Z = false
+---
+> .field public static sIsSupportNfcLedCover:Z
+39c39
+< .field public static sIsSupportSecureCover:Z = false
+---
+> .field public static sIsSupportSecureCover:Z
+41c41
+< .field public static sIsSystemFeatureQueried:Z = false
+---
+> .field public static sIsSystemFeatureQueried:Z
+147c147
+<     const-string v0, "/efs/spen/blespen_addr"
+---
+>     const-string v0, "/mnt/vendor/efs/spen/blespen_addr"
+199c199
+<     const-string v0, "/efs/spen/blespen_cmf"
+---
+>     const-string v0, "/mnt/vendor/efs/spen/blespen_cmf"
+832c832
+<     const-string v0, "/efs/spen/blespen_addr"
+---
+>     const-string v0, "/mnt/vendor/efs/spen/blespen_addr"
+881c881
+<     const-string v0, "/efs/spen/blespen_cmf"
+---
+>     const-string v0, "/mnt/vendor/efs/spen/blespen_cmf"
+10c10
+< .field public static mForceNtpSetByMDM:Z = false
+---
+> .field public static mForceNtpSetByMDM:Z
+12c12
+< .field public static mNtpSetByMDM:Z = false
+---
+> .field public static mNtpSetByMDM:Z
+7c7
+< .field public static mBootCompleted:Z = false
+---
+> .field public static mBootCompleted:Z
+7c7
+< .field public static TEST_GROUP_enabled:Z = false
+---
+> .field public static TEST_GROUP_enabled:Z
+9c9
+< .field public static WM_DEBUG_ADD_REMOVE_enabled:Z = false
+---
+> .field public static WM_DEBUG_ADD_REMOVE_enabled:Z
+11c11
+< .field public static WM_DEBUG_ANIM_enabled:Z = false
+---
+> .field public static WM_DEBUG_ANIM_enabled:Z
+13c13
+< .field public static WM_DEBUG_APP_TRANSITIONS_ANIM_enabled:Z = false
+---
+> .field public static WM_DEBUG_APP_TRANSITIONS_ANIM_enabled:Z
+15c15
+< .field public static WM_DEBUG_APP_TRANSITIONS_enabled:Z = false
+---
+> .field public static WM_DEBUG_APP_TRANSITIONS_enabled:Z
+17c17
+< .field public static WM_DEBUG_BACK_PREVIEW_enabled:Z = false
+---
+> .field public static WM_DEBUG_BACK_PREVIEW_enabled:Z
+19c19
+< .field public static WM_DEBUG_BOOT_enabled:Z = false
+---
+> .field public static WM_DEBUG_BOOT_enabled:Z
+21c21
+< .field public static WM_DEBUG_CONFIGURATION_enabled:Z = false
+---
+> .field public static WM_DEBUG_CONFIGURATION_enabled:Z
+23c23
+< .field public static WM_DEBUG_CONTAINERS_enabled:Z = false
+---
+> .field public static WM_DEBUG_CONTAINERS_enabled:Z
+25c25
+< .field public static WM_DEBUG_CONTENT_RECORDING_enabled:Z = false
+---
+> .field public static WM_DEBUG_CONTENT_RECORDING_enabled:Z
+27c27
+< .field public static WM_DEBUG_DRAW_enabled:Z = false
+---
+> .field public static WM_DEBUG_DRAW_enabled:Z
+29c29
+< .field public static WM_DEBUG_DREAM_enabled:Z = false
+---
+> .field public static WM_DEBUG_DREAM_enabled:Z
+31c31
+< .field public static WM_DEBUG_FOCUS_LIGHT_enabled:Z = false
+---
+> .field public static WM_DEBUG_FOCUS_LIGHT_enabled:Z
+33c33
+< .field public static WM_DEBUG_FOCUS_enabled:Z = false
+---
+> .field public static WM_DEBUG_FOCUS_enabled:Z
+35c35
+< .field public static WM_DEBUG_IME_enabled:Z = false
+---
+> .field public static WM_DEBUG_IME_enabled:Z
+37c37
+< .field public static WM_DEBUG_IMMERSIVE_enabled:Z = false
+---
+> .field public static WM_DEBUG_IMMERSIVE_enabled:Z
+39c39
+< .field public static WM_DEBUG_INPUT_enabled:Z = false
+---
+> .field public static WM_DEBUG_INPUT_enabled:Z
+41c41
+< .field public static WM_DEBUG_KEEP_SCREEN_ON_enabled:Z = false
+---
+> .field public static WM_DEBUG_KEEP_SCREEN_ON_enabled:Z
+43c43
+< .field public static WM_DEBUG_LOCKTASK_enabled:Z = false
+---
+> .field public static WM_DEBUG_LOCKTASK_enabled:Z
+45c45
+< .field public static WM_DEBUG_ORIENTATION_enabled:Z = false
+---
+> .field public static WM_DEBUG_ORIENTATION_enabled:Z
+47c47
+< .field public static WM_DEBUG_RECENTS_ANIMATIONS_enabled:Z = false
+---
+> .field public static WM_DEBUG_RECENTS_ANIMATIONS_enabled:Z
+49c49
+< .field public static WM_DEBUG_REMOTE_ANIMATIONS_enabled:Z = false
+---
+> .field public static WM_DEBUG_REMOTE_ANIMATIONS_enabled:Z
+51c51
+< .field public static WM_DEBUG_RESIZE_enabled:Z = false
+---
+> .field public static WM_DEBUG_RESIZE_enabled:Z
+53c53
+< .field public static WM_DEBUG_SCREEN_ON_enabled:Z = false
+---
+> .field public static WM_DEBUG_SCREEN_ON_enabled:Z
+55c55
+< .field public static WM_DEBUG_STARTING_WINDOW_enabled:Z = false
+---
+> .field public static WM_DEBUG_STARTING_WINDOW_enabled:Z
+57c57
+< .field public static WM_DEBUG_STATES_enabled:Z = false
+---
+> .field public static WM_DEBUG_STATES_enabled:Z
+59c59
+< .field public static WM_DEBUG_SWITCH_enabled:Z = false
+---
+> .field public static WM_DEBUG_SWITCH_enabled:Z
+61c61
+< .field public static WM_DEBUG_SYNC_ENGINE_enabled:Z = false
+---
+> .field public static WM_DEBUG_SYNC_ENGINE_enabled:Z
+63c63
+< .field public static WM_DEBUG_TASKS_enabled:Z = false
+---
+> .field public static WM_DEBUG_TASKS_enabled:Z
+65c65
+< .field public static WM_DEBUG_WALLPAPER_enabled:Z = false
+---
+> .field public static WM_DEBUG_WALLPAPER_enabled:Z
+67c67
+< .field public static WM_DEBUG_WINDOW_INSETS_enabled:Z = false
+---
+> .field public static WM_DEBUG_WINDOW_INSETS_enabled:Z
+69c69
+< .field public static WM_DEBUG_WINDOW_MOVEMENT_enabled:Z = false
+---
+> .field public static WM_DEBUG_WINDOW_MOVEMENT_enabled:Z
+71c71
+< .field public static WM_DEBUG_WINDOW_ORGANIZER_enabled:Z = false
+---
+> .field public static WM_DEBUG_WINDOW_ORGANIZER_enabled:Z
+73c73
+< .field public static WM_DEBUG_WINDOW_TRANSITIONS_MIN_enabled:Z = false
+---
+> .field public static WM_DEBUG_WINDOW_TRANSITIONS_MIN_enabled:Z
+75c75
+< .field public static WM_DEBUG_WINDOW_TRANSITIONS_enabled:Z = false
+---
+> .field public static WM_DEBUG_WINDOW_TRANSITIONS_enabled:Z
+77c77
+< .field public static WM_ERROR_enabled:Z = false
+---
+> .field public static WM_ERROR_enabled:Z
+79c79
+< .field public static WM_FORCE_DEBUG_ADD_REMOVE_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_ADD_REMOVE_enabled:Z
+81c81
+< .field public static WM_FORCE_DEBUG_ANIM_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_ANIM_enabled:Z
+83c83
+< .field public static WM_FORCE_DEBUG_APP_TRANSITIONS_ANIM_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_APP_TRANSITIONS_ANIM_enabled:Z
+85c85
+< .field public static WM_FORCE_DEBUG_APP_TRANSITIONS_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_APP_TRANSITIONS_enabled:Z
+87c87
+< .field public static WM_FORCE_DEBUG_BOOT_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_BOOT_enabled:Z
+89c89
+< .field public static WM_FORCE_DEBUG_CONFIGURATION_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_CONFIGURATION_enabled:Z
+91c91
+< .field public static WM_FORCE_DEBUG_DRAW_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_DRAW_enabled:Z
+93c93
+< .field public static WM_FORCE_DEBUG_FOCUS_LIGHT_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_FOCUS_LIGHT_enabled:Z
+95c95
+< .field public static WM_FORCE_DEBUG_FOCUS_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_FOCUS_enabled:Z
+97c97
+< .field public static WM_FORCE_DEBUG_IME_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_IME_enabled:Z
+99c99
+< .field public static WM_FORCE_DEBUG_KEEP_SCREEN_ON_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_KEEP_SCREEN_ON_enabled:Z
+101c101
+< .field public static WM_FORCE_DEBUG_ORIENTATION_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_ORIENTATION_enabled:Z
+103c103
+< .field public static WM_FORCE_DEBUG_RECENTS_ANIMATIONS_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_RECENTS_ANIMATIONS_enabled:Z
+105c105
+< .field public static WM_FORCE_DEBUG_REMOTE_ANIMATIONS_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_REMOTE_ANIMATIONS_enabled:Z
+107c107
+< .field public static WM_FORCE_DEBUG_RESIZE_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_RESIZE_enabled:Z
+109c109
+< .field public static WM_FORCE_DEBUG_SCREEN_ON_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_SCREEN_ON_enabled:Z
+111c111
+< .field public static WM_FORCE_DEBUG_STARTING_WINDOW_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_STARTING_WINDOW_enabled:Z
+113c113
+< .field public static WM_FORCE_DEBUG_SYNC_ENGINE_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_SYNC_ENGINE_enabled:Z
+115c115
+< .field public static WM_FORCE_DEBUG_WINDOW_MOVEMENT_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_WINDOW_MOVEMENT_enabled:Z
+117c117
+< .field public static WM_FORCE_DEBUG_WINDOW_TRANSITIONS_enabled:Z = false
+---
+> .field public static WM_FORCE_DEBUG_WINDOW_TRANSITIONS_enabled:Z
+119c119
+< .field public static WM_FORCE_SHOW_SURFACE_ALLOC_enabled:Z = false
+---
+> .field public static WM_FORCE_SHOW_SURFACE_ALLOC_enabled:Z
+121c121
+< .field public static WM_FORCE_SHOW_TRANSACTIONS_enabled:Z = false
+---
+> .field public static WM_FORCE_SHOW_TRANSACTIONS_enabled:Z
+123c123
+< .field public static WM_SHOW_SURFACE_ALLOC_enabled:Z = false
+---
+> .field public static WM_SHOW_SURFACE_ALLOC_enabled:Z
+125c125
+< .field public static WM_SHOW_TRANSACTIONS_enabled:Z = false
+---
+> .field public static WM_SHOW_TRANSACTIONS_enabled:Z
+7c7
+< .field public static sIsEnabled:Z = false
+---
+> .field public static sIsEnabled:Z
+9c9
+< .field private static sDebug:Z = false
+---
+> .field private static sDebug:Z
+1,1368d0
+< 13c13
+< < .field static final VDBG:Z
+< ---
+< > .field static final VDBG:Z = false
+< 17c17
+< < .field public static m_epic_asInterface_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_asInterface_func:Ljava/lang/reflect/Method; = null
+< 19c19
+< < .field public static m_epic_handle_cls:Ljava/lang/Class;
+< ---
+< > .field public static m_epic_handle_cls:Ljava/lang/Class; = null
+< 21c21
+< < .field public static m_epic_hint_release_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_hint_release_func:Ljava/lang/reflect/Method; = null
+< 23c23
+< < .field public static m_epic_init_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_init_func:Ljava/lang/reflect/Method; = null
+< 25c25
+< < .field public static m_epic_init_multi_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_init_multi_func:Ljava/lang/reflect/Method; = null
+< 27c27
+< < .field public static m_epic_perf_hint_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_perf_hint_func:Ljava/lang/reflect/Method; = null
+< 29c29
+< < .field public static m_epic_release_conditional_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_release_conditional_func:Ljava/lang/reflect/Method; = null
+< 31c31
+< < .field public static m_epic_release_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_release_func:Ljava/lang/reflect/Method; = null
+< 33c33
+< < .field public static m_epic_request_cls:Ljava/lang/Class;
+< ---
+< > .field public static m_epic_request_cls:Ljava/lang/Class; = null
+< 35c35
+< < .field public static m_epic_request_conditional_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_request_conditional_func:Ljava/lang/reflect/Method; = null
+< 37c37
+< < .field public static m_epic_request_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_request_func:Ljava/lang/reflect/Method; = null
+< 39c39
+< < .field public static m_epic_request_opt_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_request_opt_func:Ljava/lang/reflect/Method; = null
+< 41c41
+< < .field public static m_epic_request_opt_multi_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_request_opt_multi_func:Ljava/lang/reflect/Method; = null
+< 43c43
+< < .field public static m_epic_request_stub_cls:Ljava/lang/Class;
+< ---
+< > .field public static m_epic_request_stub_cls:Ljava/lang/Class; = null
+< 45c45
+< < .field public static m_has_load:Z
+< ---
+< > .field public static m_has_load:Z = false
+< 13c13
+< < .field public static m_epic_getservice_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_getservice_func:Ljava/lang/reflect/Method; = null
+< 15c15
+< < .field public static m_epic_handle_cls:Ljava/lang/Class;
+< ---
+< > .field public static m_epic_handle_cls:Ljava/lang/Class; = null
+< 17c17
+< < .field public static m_epic_hint_release_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_hint_release_func:Ljava/lang/reflect/Method; = null
+< 19c19
+< < .field public static m_epic_init_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_init_func:Ljava/lang/reflect/Method; = null
+< 21c21
+< < .field public static m_epic_init_multi_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_init_multi_func:Ljava/lang/reflect/Method; = null
+< 23c23
+< < .field public static m_epic_perf_hint_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_perf_hint_func:Ljava/lang/reflect/Method; = null
+< 25c25
+< < .field public static m_epic_release_conditional_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_release_conditional_func:Ljava/lang/reflect/Method; = null
+< 27c27
+< < .field public static m_epic_release_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_release_func:Ljava/lang/reflect/Method; = null
+< 29c29
+< < .field public static m_epic_request_cls:Ljava/lang/Class;
+< ---
+< > .field public static m_epic_request_cls:Ljava/lang/Class; = null
+< 31c31
+< < .field public static m_epic_request_conditional_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_request_conditional_func:Ljava/lang/reflect/Method; = null
+< 33c33
+< < .field public static m_epic_request_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_request_func:Ljava/lang/reflect/Method; = null
+< 35c35
+< < .field public static m_epic_request_opt_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_request_opt_func:Ljava/lang/reflect/Method; = null
+< 37c37
+< < .field public static m_epic_request_opt_multi_func:Ljava/lang/reflect/Method;
+< ---
+< > .field public static m_epic_request_opt_multi_func:Ljava/lang/reflect/Method; = null
+< 39c39
+< < .field public static m_has_load:Z
+< ---
+< > .field public static m_has_load:Z = false
+< 11c11
+< < .field public static m_has_load:Z
+< ---
+< > .field public static m_has_load:Z = false
+< 12c12
+< < .field public static SEC_DEBUG:Z
+< ---
+< > .field public static SEC_DEBUG:Z = false
+< 10c10
+< < .field public static SEC_DEBUG:Z
+< ---
+< > .field public static SEC_DEBUG:Z = false
+< 13c13
+< < .field public static SEC_DEBUG:Z
+< ---
+< > .field public static SEC_DEBUG:Z = false
+< 11c11
+< < .field public static SEC_DEBUG:Z
+< ---
+< > .field public static SEC_DEBUG:Z = false
+< 22c22
+< < .field public static SEC_DEBUG:Z
+< ---
+< > .field public static SEC_DEBUG:Z = false
+< 9c9
+< < .field public static mContext:Landroid/content/Context;
+< ---
+< > .field public static mContext:Landroid/content/Context; = null
+< 11c11
+< < .field public static volatile mIsBroadcastEnabled:Z
+< ---
+< > .field public static volatile mIsBroadcastEnabled:Z = false
+< 7c7
+< < .field public static CORE_DEFER_UNTIL_ACTIVE:Z
+< ---
+< > .field public static CORE_DEFER_UNTIL_ACTIVE:Z = false
+< 7c7
+< < .field public static BORA_POLICY_ENABLE:Z
+< ---
+< > .field public static BORA_POLICY_ENABLE:Z = false
+< 9c9
+< < .field public static DEBUG:Z
+< ---
+< > .field public static DEBUG:Z = false
+< 7c7
+< < .field public static AUFAllowBucketSize:I
+< ---
+< > .field public static AUFAllowBucketSize:I = 0x0
+< 9c9
+< < .field public static App_StartUp_History:Z
+< ---
+< > .field public static App_StartUp_History:Z = false
+< 11c11
+< < .field public static ENABLE_KILL_LONG_RUNNING_PROCESS:Z
+< ---
+< > .field public static ENABLE_KILL_LONG_RUNNING_PROCESS:Z = false
+< 13c13
+< < .field public static FGS_BATTERY_USAGE_THRESHOLD:I
+< ---
+< > .field public static FGS_BATTERY_USAGE_THRESHOLD:I = 0x0
+< 15c15
+< < .field public static GlobalModelWithChinaSIM:Z
+< ---
+< > .field public static GlobalModelWithChinaSIM:Z = false
+< 19c19
+< < .field public static MARs_ENABLE:Z
+< ---
+< > .field public static MARs_ENABLE:Z = false
+< 9c9
+< < .field public static ENABLED:Z
+< ---
+< > .field public static ENABLED:Z = false
+< 9c9
+< < .field public static record_ongoing:Z
+< ---
+< > .field public static record_ongoing:Z = false
+< 7c7
+< < .field public static ENABLED:Z
+< ---
+< > .field public static ENABLED:Z = false
+< 7c7
+< < .field public static sDebug:Z
+< ---
+< > .field public static sDebug:Z = false
+< 9c9
+< < .field public static sFullScreenMode:Ljava/lang/Boolean;
+< ---
+< > .field public static sFullScreenMode:Ljava/lang/Boolean; = null
+< 11c11
+< < .field public static sVerbose:Z
+< ---
+< > .field public static sVerbose:Z = false
+< 7c7
+< < .field public static mPrivilegeApp:Z
+< ---
+< > .field public static mPrivilegeApp:Z = false
+< 12c12
+< < .field public static mFirstTriggeredAfterBooting:Z
+< ---
+< > .field public static mFirstTriggeredAfterBooting:Z = false
+< 9c9
+< < .field public static availableMemSaveCount:I
+< ---
+< > .field public static availableMemSaveCount:I = 0x0
+< 11c11
+< < .field public static availableMemUpdateFlag:Z
+< ---
+< > .field public static availableMemUpdateFlag:Z = false
+< 7c7
+< < .field public static mFirstTriggeredAfterBooting:Z
+< ---
+< > .field public static mFirstTriggeredAfterBooting:Z = false
+< 11c11
+< < .field public static mDryrun:Z
+< ---
+< > .field public static mDryrun:Z = false
+< 7c7
+< < .field public static mGalaxyDiag:Z
+< ---
+< > .field public static mGalaxyDiag:Z = false
+< 9c9
+< < .field public static final mIsJDMDevice:Z
+< ---
+< > .field public static final mIsJDMDevice:Z = false
+< 11c11
+< < .field public static filteredAPIs:Ljava/util/ArrayList;
+< ---
+< > .field public static filteredAPIs:Ljava/util/ArrayList; = null
+< 13c13
+< < .field public static isActive:Z
+< ---
+< > .field public static isActive:Z = false
+< 9c9
+< < .field public static TUNE_MODE:Z
+< ---
+< > .field public static TUNE_MODE:Z = false
+< 10c10
+< < .field public static isBlockerRegistered:Z
+< ---
+< > .field public static isBlockerRegistered:Z = false
+< 12c12
+< < .field public static mHasIpv6FilterSupport:Z
+< ---
+< > .field public static mHasIpv6FilterSupport:Z = false
+< 14c14
+< < .field public static mHasIpv6NatSupport:Z
+< ---
+< > .field public static mHasIpv6NatSupport:Z = false
+< 7c7
+< < .field public static mIBSEnable:Z
+< ---
+< > .field public static mIBSEnable:Z = false
+< 7c7
+< < .field public static delayDataLockOnceForDeviceOwner:Z
+< ---
+< > .field public static delayDataLockOnceForDeviceOwner:Z = false
+< 9c9
+< < .field public static mSystemReady:Z
+< ---
+< > .field public static mSystemReady:Z = false
+< 9c9
+< < .field public static mSystemReady:Z
+< ---
+< > .field public static mSystemReady:Z = false
+< 2409c2409
+< <     .registers 2
+< ---
+< >     .registers 7
+< 2411c2411,2412
+< <     const/4 v0, 0x1
+< ---
+< >     .line 366
+< >     invoke-virtual {p0}, Lcom/android/server/knox/dar/DarManagerService;->isGRDMSupported()Z
+< 2413c2414,2515
+< <     return v0
+< ---
+< >     move-result v0
+< > 
+< >     const-string v1, "DarManagerService"
+< > 
+< >     if-eqz v0, :cond_16
+< > 
+< >     const-string v0, "Check SAK instead for GRDM device"
+< > 
+< >     .line 367
+< >     invoke-static {v1, v0}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+< > 
+< >     .line 368
+< >     invoke-virtual {p0}, Lcom/android/server/knox/dar/DarManagerService;->isSAKInstalled()Z
+< > 
+< >     move-result p0
+< > 
+< >     invoke-static {p0}, Lcom/android/server/knox/dar/SecureUtil;->record(Z)Z
+< > 
+< >     move-result p0
+< > 
+< >     return p0
+< > 
+< >     .line 372
+< >     :cond_16
+< >     iget-object v0, p0, Lcom/android/server/knox/dar/DarManagerService;->mInjector:Lcom/android/server/knox/dar/DarManagerService$Injector;
+< > 
+< >     invoke-virtual {v0}, Lcom/android/server/knox/dar/DarManagerService$Injector;->binderClearCallingIdentity()J
+< > 
+< >     move-result-wide v2
+< > 
+< >     const/4 v0, 0x0
+< > 
+< >     .line 374
+< >     :try_start_1d
+< >     new-instance v4, Lcom/samsung/android/service/DeviceRootKeyService/DeviceRootKeyServiceManager;
+< > 
+< >     iget-object v5, p0, Lcom/android/server/knox/dar/DarManagerService;->mContext:Landroid/content/Context;
+< > 
+< >     invoke-direct {v4, v5}, Lcom/samsung/android/service/DeviceRootKeyService/DeviceRootKeyServiceManager;-><init>(Landroid/content/Context;)V
+< > 
+< >     .line 375
+< >     invoke-virtual {v4}, Lcom/samsung/android/service/DeviceRootKeyService/DeviceRootKeyServiceManager;->isAliveDeviceRootKeyService()Z
+< > 
+< >     move-result v5
+< > 
+< >     if-nez v5, :cond_30
+< > 
+< >     const-string v4, "DRK service is not ready..."
+< > 
+< >     .line 376
+< >     invoke-static {v1, v4}, Landroid/util/Log;->e(Ljava/lang/String;Ljava/lang/String;)I
+< > 
+< >     goto :goto_3c
+< > 
+< >     :cond_30
+< >     const/4 v1, 0x1
+< > 
+< >     .line 378
+< >     invoke-virtual {v4, v1}, Lcom/samsung/android/service/DeviceRootKeyService/DeviceRootKeyServiceManager;->isExistDeviceRootKey(I)Z
+< > 
+< >     move-result v0
+< >     :try_end_35
+< >     .catch Ljava/lang/Exception; {:try_start_1d .. :try_end_35} :catch_38
+< >     .catchall {:try_start_1d .. :try_end_35} :catchall_36
+< > 
+< >     goto :goto_3c
+< > 
+< >     :catchall_36
+< >     move-exception v0
+< > 
+< >     goto :goto_46
+< > 
+< >     :catch_38
+< >     move-exception v1
+< > 
+< >     .line 382
+< >     :try_start_39
+< >     invoke-virtual {v1}, Ljava/lang/Exception;->printStackTrace()V
+< >     :try_end_3c
+< >     .catchall {:try_start_39 .. :try_end_3c} :catchall_36
+< > 
+< >     .line 384
+< >     :goto_3c
+< >     iget-object p0, p0, Lcom/android/server/knox/dar/DarManagerService;->mInjector:Lcom/android/server/knox/dar/DarManagerService$Injector;
+< > 
+< >     invoke-virtual {p0, v2, v3}, Lcom/android/server/knox/dar/DarManagerService$Injector;->binderRestoreCallingIdentity(J)V
+< > 
+< >     .line 386
+< >     invoke-static {v0}, Lcom/android/server/knox/dar/SecureUtil;->record(Z)Z
+< > 
+< >     move-result p0
+< > 
+< >     return p0
+< > 
+< >     .line 384
+< >     :goto_46
+< >     iget-object p0, p0, Lcom/android/server/knox/dar/DarManagerService;->mInjector:Lcom/android/server/knox/dar/DarManagerService$Injector;
+< > 
+< >     invoke-virtual {p0, v2, v3}, Lcom/android/server/knox/dar/DarManagerService$Injector;->binderRestoreCallingIdentity(J)V
+< > 
+< >     .line 385
+< >     throw v0
+< 2495c2597
+< <     .registers 2
+< ---
+< >     .registers 8
+< 2497c2599
+< <     const/4 v0, 0x1
+< ---
+< >     const-string v0, "KnoxTestKey"
+< 2499c2601,2694
+< <     return v0
+< ---
+< >     .line 416
+< >     iget-object v1, p0, Lcom/android/server/knox/dar/DarManagerService;->mInjector:Lcom/android/server/knox/dar/DarManagerService$Injector;
+< > 
+< >     invoke-virtual {v1}, Lcom/android/server/knox/dar/DarManagerService$Injector;->binderClearCallingIdentity()J
+< > 
+< >     move-result-wide v1
+< > 
+< >     const/4 v3, 0x0
+< > 
+< >     .line 418
+< >     :try_start_9
+< >     new-instance v4, Lcom/samsung/android/security/keystore/AttestationUtils;
+< > 
+< >     invoke-direct {v4}, Lcom/samsung/android/security/keystore/AttestationUtils;-><init>()V
+< > 
+< >     .line 419
+< >     new-instance v5, Lcom/samsung/android/security/keystore/AttestParameterSpec$Builder;
+< > 
+< >     const/16 v6, 0x8
+< > 
+< >     .line 420
+< >     invoke-static {v6}, Lcom/android/server/knox/dar/SecureUtil;->generateRandomBytes(I)[B
+< > 
+< >     move-result-object v6
+< > 
+< >     invoke-direct {v5, v0, v6}, Lcom/samsung/android/security/keystore/AttestParameterSpec$Builder;-><init>(Ljava/lang/String;[B)V
+< > 
+< >     const/4 v6, 0x1
+< > 
+< >     .line 421
+< >     invoke-virtual {v5, v6}, Lcom/samsung/android/security/keystore/AttestParameterSpec$Builder;->setVerifiableIntegrity(Z)Lcom/samsung/android/security/keystore/AttestParameterSpec$Builder;
+< > 
+< >     move-result-object v5
+< > 
+< >     .line 422
+< >     invoke-virtual {v5}, Lcom/samsung/android/security/keystore/AttestParameterSpec$Builder;->build()Lcom/samsung/android/security/keystore/AttestParameterSpec;
+< > 
+< >     move-result-object v5
+< > 
+< >     invoke-virtual {v4, v5}, Lcom/samsung/android/security/keystore/AttestationUtils;->generateKeyPair(Lcom/samsung/android/security/keystore/AttestParameterSpec;)Ljava/security/KeyPair;
+< > 
+< >     move-result-object v5
+< > 
+< >     if-eqz v5, :cond_3c
+< > 
+< >     .line 424
+< >     invoke-virtual {v4, v0}, Lcom/samsung/android/security/keystore/AttestationUtils;->getCertificateChain(Ljava/lang/String;)[Ljava/security/cert/Certificate;
+< > 
+< >     move-result-object v5
+< > 
+< >     invoke-virtual {p0, v5}, Lcom/android/server/knox/dar/DarManagerService;->checkDeviceIntegrity([Ljava/security/cert/Certificate;)Z
+< > 
+< >     move-result v3
+< > 
+< >     if-eqz v3, :cond_3c
+< > 
+< >     .line 426
+< >     invoke-virtual {v4, v0}, Lcom/samsung/android/security/keystore/AttestationUtils;->deleteKey(Ljava/lang/String;)V
+< >     :try_end_35
+< >     .catch Ljava/lang/Exception; {:try_start_9 .. :try_end_35} :catch_38
+< >     .catchall {:try_start_9 .. :try_end_35} :catchall_36
+< > 
+< >     goto :goto_3c
+< > 
+< >     :catchall_36
+< >     move-exception v0
+< > 
+< >     goto :goto_42
+< > 
+< >     :catch_38
+< >     move-exception v0
+< > 
+< >     .line 430
+< >     :try_start_39
+< >     invoke-virtual {v0}, Ljava/lang/Exception;->printStackTrace()V
+< >     :try_end_3c
+< >     .catchall {:try_start_39 .. :try_end_3c} :catchall_36
+< > 
+< >     .line 432
+< >     :cond_3c
+< >     :goto_3c
+< >     iget-object p0, p0, Lcom/android/server/knox/dar/DarManagerService;->mInjector:Lcom/android/server/knox/dar/DarManagerService$Injector;
+< > 
+< >     invoke-virtual {p0, v1, v2}, Lcom/android/server/knox/dar/DarManagerService$Injector;->binderRestoreCallingIdentity(J)V
+< > 
+< >     return v3
+< > 
+< >     :goto_42
+< >     iget-object p0, p0, Lcom/android/server/knox/dar/DarManagerService;->mInjector:Lcom/android/server/knox/dar/DarManagerService$Injector;
+< > 
+< >     invoke-virtual {p0, v1, v2}, Lcom/android/server/knox/dar/DarManagerService$Injector;->binderRestoreCallingIdentity(J)V
+< > 
+< >     .line 433
+< >     throw v0
+< 7c7
+< < .field public static mIsDeviceOwnerEnabled:Z
+< ---
+< > .field public static mIsDeviceOwnerEnabled:Z = false
+< 9c9
+< < .field public static mIsNfwLocationAccessProxyAppsUpdated:Z
+< ---
+< > .field public static mIsNfwLocationAccessProxyAppsUpdated:Z = false
+< 228c228
+< < .field public static isDesktopMode:Z
+< ---
+< > .field public static isDesktopMode:Z = false
+< 230c230
+< < .field public static knoxCustomReceiver:Landroid/content/BroadcastReceiver;
+< ---
+< > .field public static knoxCustomReceiver:Landroid/content/BroadcastReceiver; = null
+< 232c232
+< < .field public static lockScreenOverrideMode:I
+< ---
+< > .field public static lockScreenOverrideMode:I = 0x0
+< 234c234
+< < .field public static mFuturePP:Ljava/util/concurrent/Future;
+< ---
+< > .field public static mFuturePP:Ljava/util/concurrent/Future; = null
+< 236c236
+< < .field public static usbPlugged:Z
+< ---
+< > .field public static usbPlugged:Z = false
+< 238c238
+< < .field public static wifiConfigure:Z
+< ---
+< > .field public static wifiConfigure:Z = false
+< 240c240
+< < .field public static wifiEap:Z
+< ---
+< > .field public static wifiEap:Z = false
+< 1190c1190
+< <     const/4 v0, 0x0
+< ---
+< >     const/4 v0, 0x1
+< 11c11
+< < .field public static sIsDmaSupported:Z
+< ---
+< > .field public static sIsDmaSupported:Z = false
+< 13c13
+< < .field public static sIsDmaVersionChecked:Z
+< ---
+< > .field public static sIsDmaVersionChecked:Z = false
+< 168c168
+< <     const/4 p0, 0x1
+< ---
+< >     iget-boolean p0, p0, Lcom/samsung/android/security/keystore/AttestParameterSpec;->mVerifiableIntegrity:Z
+< 7c7
+< < .field public static sIsSoundAliveExist:Z
+< ---
+< > .field public static sIsSoundAliveExist:Z = false
+< 9c9
+< < .field public static mAudioServerResetCount:I
+< ---
+< > .field public static mAudioServerResetCount:I = 0x0
+< 11c11
+< < .field public static mAudioServerResetCountMaxLimit:Z
+< ---
+< > .field public static mAudioServerResetCountMaxLimit:Z = false
+< 7c7
+< < .field public static sIsFactoryMode:Z
+< ---
+< > .field public static sIsFactoryMode:Z = false
+< 7c7
+< < .field public static sInstance:Lcom/samsung/android/server/audio/ScreenSharingHelper;
+< ---
+< > .field public static sInstance:Lcom/samsung/android/server/audio/ScreenSharingHelper; = null
+< 9c9
+< < .field public static sIsWifiDisplayConnected:Z
+< ---
+< > .field public static sIsWifiDisplayConnected:Z = false
+< 11c11
+< < .field public static sSplitSoundEnabled:Z
+< ---
+< > .field public static sSplitSoundEnabled:Z = false
+< 7c7
+< < .field public static FW_BR_ALLOW_LIST_WITH_SCPM:Z
+< ---
+< > .field public static FW_BR_ALLOW_LIST_WITH_SCPM:Z = false
+< 11c11
+< < .field public static sArtManagerLocalIsInitialized:Z
+< ---
+< > .field public static sArtManagerLocalIsInitialized:Z = false
+< 1095c1095
+< <     .registers 9
+< ---
+< >     .registers 8
+< 1097c1097,1103
+< <     const/4 v0, 0x0
+< ---
+< >     const/4 v0, 0x1
+< > 
+< >     if-nez p0, :cond_8
+< > 
+< >     if-nez p1, :cond_6
+< > 
+< >     goto :goto_7
+< 1098a1105,1108
+< >     :cond_6
+< >     const/4 v0, -0x1
+< > 
+< >     :goto_7
+< 1099a1110,1211
+< > 
+< >     :cond_8
+< >     if-nez p1, :cond_c
+< > 
+< >     const/4 p0, -0x2
+< > 
+< >     return p0
+< > 
+< >     .line 429
+< >     :cond_c
+< >     array-length v1, p0
+< > 
+< >     array-length v2, p1
+< > 
+< >     const/4 v3, -0x3
+< > 
+< >     if-eq v1, v2, :cond_12
+< > 
+< >     return v3
+< > 
+< >     .line 434
+< >     :cond_12
+< >     array-length v1, p0
+< > 
+< >     const/4 v2, 0x0
+< > 
+< >     if-ne v1, v0, :cond_22
+< > 
+< >     .line 435
+< >     aget-object p0, p0, v2
+< > 
+< >     aget-object p1, p1, v2
+< > 
+< >     invoke-virtual {p0, p1}, Landroid/content/pm/Signature;->equals(Ljava/lang/Object;)Z
+< > 
+< >     move-result p0
+< > 
+< >     if-eqz p0, :cond_21
+< > 
+< >     move v3, v2
+< > 
+< >     :cond_21
+< >     return v3
+< > 
+< >     .line 440
+< >     :cond_22
+< >     new-instance v0, Landroid/util/ArraySet;
+< > 
+< >     invoke-direct {v0}, Landroid/util/ArraySet;-><init>()V
+< > 
+< >     .line 441
+< >     array-length v1, p0
+< > 
+< >     move v4, v2
+< > 
+< >     :goto_29
+< >     if-ge v4, v1, :cond_33
+< > 
+< >     aget-object v5, p0, v4
+< > 
+< >     .line 442
+< >     invoke-virtual {v0, v5}, Landroid/util/ArraySet;->add(Ljava/lang/Object;)Z
+< > 
+< >     add-int/lit8 v4, v4, 0x1
+< > 
+< >     goto :goto_29
+< > 
+< >     .line 444
+< >     :cond_33
+< >     new-instance p0, Landroid/util/ArraySet;
+< > 
+< >     invoke-direct {p0}, Landroid/util/ArraySet;-><init>()V
+< > 
+< >     .line 445
+< >     array-length v1, p1
+< > 
+< >     move v4, v2
+< > 
+< >     :goto_3a
+< >     if-ge v4, v1, :cond_44
+< > 
+< >     aget-object v5, p1, v4
+< > 
+< >     .line 446
+< >     invoke-virtual {p0, v5}, Landroid/util/ArraySet;->add(Ljava/lang/Object;)Z
+< > 
+< >     add-int/lit8 v4, v4, 0x1
+< > 
+< >     goto :goto_3a
+< > 
+< >     .line 449
+< >     :cond_44
+< >     invoke-virtual {v0, p0}, Landroid/util/ArraySet;->equals(Ljava/lang/Object;)Z
+< > 
+< >     move-result p0
+< > 
+< >     if-eqz p0, :cond_4b
+< > 
+< >     return v2
+< > 
+< >     :cond_4b
+< >     return v3
+< 3669c3781,3782
+< <     const/4 v0, 0x0
+< ---
+< >     .line 475
+< >     new-instance v0, Landroid/util/ArraySet;
+< 3671c3784,3912
+< <     return v0
+< ---
+< >     invoke-direct {v0}, Landroid/util/ArraySet;-><init>()V
+< > 
+< >     .line 476
+< >     iget-object v1, p1, Lcom/android/server/pm/PackageSignatures;->mSigningDetails:Landroid/content/pm/SigningDetails;
+< > 
+< >     invoke-virtual {v1}, Landroid/content/pm/SigningDetails;->getSignatures()[Landroid/content/pm/Signature;
+< > 
+< >     move-result-object v1
+< > 
+< >     array-length v2, v1
+< > 
+< >     const/4 v3, 0x0
+< > 
+< >     move v4, v3
+< > 
+< >     :goto_e
+< >     if-ge v4, v2, :cond_18
+< > 
+< >     aget-object v5, v1, v4
+< > 
+< >     .line 477
+< >     invoke-virtual {v0, v5}, Landroid/util/ArraySet;->add(Ljava/lang/Object;)Z
+< > 
+< >     add-int/lit8 v4, v4, 0x1
+< > 
+< >     goto :goto_e
+< > 
+< >     .line 479
+< >     :cond_18
+< >     new-instance v1, Landroid/util/ArraySet;
+< > 
+< >     invoke-direct {v1}, Landroid/util/ArraySet;-><init>()V
+< > 
+< >     .line 480
+< >     invoke-virtual {p2}, Landroid/content/pm/SigningDetails;->getSignatures()[Landroid/content/pm/Signature;
+< > 
+< >     move-result-object v2
+< > 
+< >     array-length v4, v2
+< > 
+< >     move v5, v3
+< > 
+< >     :goto_23
+< >     if-ge v5, v4, :cond_3d
+< > 
+< >     aget-object v6, v2, v5
+< > 
+< >     .line 482
+< >     :try_start_27
+< >     invoke-virtual {v6}, Landroid/content/pm/Signature;->getChainSignatures()[Landroid/content/pm/Signature;
+< > 
+< >     move-result-object v7
+< > 
+< >     .line 483
+< >     array-length v8, v7
+< > 
+< >     move v9, v3
+< > 
+< >     :goto_2d
+< >     if-ge v9, v8, :cond_3a
+< > 
+< >     aget-object v10, v7, v9
+< > 
+< >     .line 484
+< >     invoke-virtual {v1, v10}, Landroid/util/ArraySet;->add(Ljava/lang/Object;)Z
+< >     :try_end_34
+< >     .catch Ljava/security/cert/CertificateEncodingException; {:try_start_27 .. :try_end_34} :catch_37
+< > 
+< >     add-int/lit8 v9, v9, 0x1
+< > 
+< >     goto :goto_2d
+< > 
+< >     .line 487
+< >     :catch_37
+< >     invoke-virtual {v1, v6}, Landroid/util/ArraySet;->add(Ljava/lang/Object;)Z
+< > 
+< >     :cond_3a
+< >     add-int/lit8 v5, v5, 0x1
+< > 
+< >     goto :goto_23
+< > 
+< >     .line 491
+< >     :cond_3d
+< >     invoke-virtual {v1, v0}, Landroid/util/ArraySet;->equals(Ljava/lang/Object;)Z
+< > 
+< >     move-result v0
+< > 
+< >     if-eqz v0, :cond_47
+< > 
+< >     .line 493
+< >     iput-object p2, p1, Lcom/android/server/pm/PackageSignatures;->mSigningDetails:Landroid/content/pm/SigningDetails;
+< > 
+< >     const/4 p0, 0x1
+< > 
+< >     return p0
+< > 
+< >     .line 495
+< >     :cond_47
+< >     invoke-virtual {p2}, Landroid/content/pm/SigningDetails;->hasPastSigningCertificates()Z
+< > 
+< >     move-result p1
+< > 
+< >     if-eqz p1, :cond_67
+< > 
+< >     .line 500
+< >     new-instance p1, Ljava/lang/StringBuilder;
+< > 
+< >     invoke-direct {p1}, Ljava/lang/StringBuilder;-><init>()V
+< > 
+< >     const-string p2, "Existing package "
+< > 
+< >     invoke-virtual {p1, p2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< > 
+< >     invoke-virtual {p1, p0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< > 
+< >     const-string p0, " has flattened signing certificate chain. Unable to install newer version with rotated signing certificate."
+< > 
+< >     invoke-virtual {p1, p0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< > 
+< >     invoke-virtual {p1}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+< > 
+< >     move-result-object p0
+< > 
+< >     const/4 p1, 0x4
+< > 
+< >     invoke-static {p1, p0}, Lcom/android/server/pm/PackageManagerServiceUtils;->logCriticalInfo(ILjava/lang/String;)V
+< > 
+< >     :cond_67
+< >     return v3
+< 3675,3679c3916
+< <     .registers 8
+< <     .param p3    # I
+< <         .annotation build Landroid/content/pm/PackageParser$SigningDetails$CertCapabilities;
+< <         .end annotation
+< <     .end param
+< ---
+< >     .registers 5
+< 3681c3918
+< <     const/4 v0, 0x0
+< ---
+< >     const/4 v0, 0x4
+< 3683c3920,3990
+< <     return v0
+< ---
+< >     .line 514
+< >     :try_start_1
+< >     invoke-virtual {p2, p1, p3}, Landroid/content/pm/SigningDetails;->checkCapabilityRecover(Landroid/content/pm/SigningDetails;I)Z
+< > 
+< >     move-result p1
+< > 
+< >     if-eqz p1, :cond_1d
+< > 
+< >     .line 515
+< >     new-instance p1, Ljava/lang/StringBuilder;
+< > 
+< >     invoke-direct {p1}, Ljava/lang/StringBuilder;-><init>()V
+< > 
+< >     const-string p2, "Recovered effectively matching certificates for "
+< > 
+< >     invoke-virtual {p1, p2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< > 
+< >     invoke-virtual {p1, p0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< > 
+< >     invoke-virtual {p1}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+< > 
+< >     move-result-object p1
+< > 
+< >     invoke-static {v0, p1}, Lcom/android/server/pm/PackageManagerServiceUtils;->logCriticalInfo(ILjava/lang/String;)V
+< >     :try_end_1b
+< >     .catch Ljava/security/cert/CertificateException; {:try_start_1 .. :try_end_1b} :catch_1f
+< > 
+< >     const/4 p0, 0x1
+< > 
+< >     return p0
+< > 
+< >     :cond_1d
+< >     const/4 p1, 0x0
+< > 
+< >     goto :goto_24
+< > 
+< >     :catch_1f
+< >     move-exception p1
+< > 
+< >     .line 520
+< >     invoke-virtual {p1}, Ljava/security/cert/CertificateException;->getMessage()Ljava/lang/String;
+< > 
+< >     move-result-object p1
+< > 
+< >     .line 522
+< >     :goto_24
+< >     new-instance p2, Ljava/lang/StringBuilder;
+< > 
+< >     invoke-direct {p2}, Ljava/lang/StringBuilder;-><init>()V
+< > 
+< >     const-string p3, "Failed to recover certificates for "
+< > 
+< >     invoke-virtual {p2, p3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< > 
+< >     invoke-virtual {p2, p0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< > 
+< >     const-string p0, ": "
+< > 
+< >     invoke-virtual {p2, p0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< > 
+< >     invoke-virtual {p2, p1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+< > 
+< >     invoke-virtual {p2}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+< > 
+< >     move-result-object p0
+< > 
+< >     invoke-static {v0, p0}, Lcom/android/server/pm/PackageManagerServiceUtils;->logCriticalInfo(ILjava/lang/String;)V
+< > 
+< >     const/4 p0, 0x0
+< > 
+< >     return p0
+< 7c7
+< < .field public static mDevicePolicyManager:Landroid/app/admin/IDevicePolicyManager;
+< ---
+< > .field public static mDevicePolicyManager:Landroid/app/admin/IDevicePolicyManager; = null
+< 9c9
+< < .field public static mSystemReady:Z
+< ---
+< > .field public static mSystemReady:Z = false
+< 292c292
+< <     const-string v11, "4"
+< ---
+< >     const-string v11, "5"
+< 13c13
+< < .field public static METRIC_AM:Ljava/lang/String;
+< ---
+< > .field public static METRIC_AM:Ljava/lang/String; = null
+< 15c15
+< < .field public static METRIC_PM:Ljava/lang/String;
+< ---
+< > .field public static METRIC_PM:Ljava/lang/String; = null
+< 17c17
+< < .field public static METRIC_RADIO:Ljava/lang/String;
+< ---
+< > .field public static METRIC_RADIO:Ljava/lang/String; = null
+< 19c19
+< < .field public static METRIC_RADIOS:Ljava/lang/String;
+< ---
+< > .field public static METRIC_RADIOS:Ljava/lang/String; = null
+< 21c21
+< < .field public static METRIC_SEND_BROADCAST:Ljava/lang/String;
+< ---
+< > .field public static METRIC_SEND_BROADCAST:Ljava/lang/String; = null
+< 23c23
+< < .field public static METRIC_SHUTDOWN_TIME_START:Ljava/lang/String;
+< ---
+< > .field public static METRIC_SHUTDOWN_TIME_START:Ljava/lang/String; = null
+< 25c25
+< < .field public static METRIC_SYSTEM_SERVER:Ljava/lang/String;
+< ---
+< > .field public static METRIC_SYSTEM_SERVER:Ljava/lang/String; = null
+< 31c31
+< < .field public static currentTimeMillisStart:J
+< ---
+< > .field public static currentTimeMillisStart:J = 0x0L
+< 33c33
+< < .field public static dlgAnim:Lcom/android/server/power/ShutdownDialog;
+< ---
+< > .field public static dlgAnim:Lcom/android/server/power/ShutdownDialog; = null
+< 35c35
+< < .field public static logFileWriter:Lcom/android/server/power/ShutdownThread$LogFileWriter;
+< ---
+< > .field public static logFileWriter:Lcom/android/server/power/ShutdownThread$LogFileWriter; = null
+< 37c37
+< < .field public static mCallerName:Ljava/lang/String;
+< ---
+< > .field public static mCallerName:Ljava/lang/String; = null
+< 39c39
+< < .field public static mReason:Ljava/lang/String;
+< ---
+< > .field public static mReason:Ljava/lang/String; = null
+< 41c41
+< < .field public static mReboot:Z
+< ---
+< > .field public static mReboot:Z = false
+< 43c43
+< < .field public static mRebootHasProgressBar:Z
+< ---
+< > .field public static mRebootHasProgressBar:Z = false
+< 45c45
+< < .field public static mRebootSafeMode:Z
+< ---
+< > .field public static mRebootSafeMode:Z = false
+< 47c47
+< < .field public static mSupportQmg:Z
+< ---
+< > .field public static mSupportQmg:Z = false
+< 51c51
+< < .field public static sIsRestrict:Z
+< ---
+< > .field public static sIsRestrict:Z = false
+< 53c53
+< < .field public static sIsStarted:Z
+< ---
+< > .field public static sIsStarted:Z = false
+< 7c7
+< < .field public static sDeviceTypeProperty:Ljava/lang/String;
+< ---
+< > .field public static sDeviceTypeProperty:Ljava/lang/String; = null
+< 9c9
+< < .field public static sHardwareProperty:Ljava/lang/String;
+< ---
+< > .field public static sHardwareProperty:Ljava/lang/String; = null
+< 11c11
+< < .field public static sInstance:Lcom/android/server/sepunion/cover/Feature;
+< ---
+< > .field public static sInstance:Lcom/android/server/sepunion/cover/Feature; = null
+< 13c13
+< < .field public static sIsDeviceSupportDetectCover:Z
+< ---
+< > .field public static sIsDeviceSupportDetectCover:Z = false
+< 15c15
+< < .field public static sIsDeviceSupportQueried:Z
+< ---
+< > .field public static sIsDeviceSupportQueried:Z = false
+< 17c17
+< < .field public static sIsDeviceSupportVerifyCover:Z
+< ---
+< > .field public static sIsDeviceSupportVerifyCover:Z = false
+< 19c19
+< < .field public static sIsNfcAuthSystemFeatureEnabled:Z
+< ---
+< > .field public static sIsNfcAuthSystemFeatureEnabled:Z = false
+< 21c21
+< < .field public static sIsSupportClearCameraViewCover:Z
+< ---
+< > .field public static sIsSupportClearCameraViewCover:Z = false
+< 23c23
+< < .field public static sIsSupportClearCover:Z
+< ---
+< > .field public static sIsSupportClearCover:Z = false
+< 25c25
+< < .field public static sIsSupportClearSideViewCover:Z
+< ---
+< > .field public static sIsSupportClearSideViewCover:Z = false
+< 27c27
+< < .field public static sIsSupportFlipCover:Z
+< ---
+< > .field public static sIsSupportFlipCover:Z = false
+< 29c29
+< < .field public static sIsSupportGamePackCover:Z
+< ---
+< > .field public static sIsSupportGamePackCover:Z = false
+< 31c31
+< < .field public static sIsSupportLEDBackCover:Z
+< ---
+< > .field public static sIsSupportLEDBackCover:Z = false
+< 33c33
+< < .field public static sIsSupportMiniSviewWalletCover:Z
+< ---
+< > .field public static sIsSupportMiniSviewWalletCover:Z = false
+< 35c35
+< < .field public static sIsSupportNeonCover:Z
+< ---
+< > .field public static sIsSupportNeonCover:Z = false
+< 37c37
+< < .field public static sIsSupportNfcLedCover:Z
+< ---
+< > .field public static sIsSupportNfcLedCover:Z = false
+< 39c39
+< < .field public static sIsSupportSecureCover:Z
+< ---
+< > .field public static sIsSupportSecureCover:Z = false
+< 41c41
+< < .field public static sIsSystemFeatureQueried:Z
+< ---
+< > .field public static sIsSystemFeatureQueried:Z = false
+< 147c147
+< <     const-string v0, "/mnt/vendor/efs/spen/blespen_addr"
+< ---
+< >     const-string v0, "/efs/spen/blespen_addr"
+< 199c199
+< <     const-string v0, "/mnt/vendor/efs/spen/blespen_cmf"
+< ---
+< >     const-string v0, "/efs/spen/blespen_cmf"
+< 832c832
+< <     const-string v0, "/mnt/vendor/efs/spen/blespen_addr"
+< ---
+< >     const-string v0, "/efs/spen/blespen_addr"
+< 881c881
+< <     const-string v0, "/mnt/vendor/efs/spen/blespen_cmf"
+< ---
+< >     const-string v0, "/efs/spen/blespen_cmf"
+< 10c10
+< < .field public static mForceNtpSetByMDM:Z
+< ---
+< > .field public static mForceNtpSetByMDM:Z = false
+< 12c12
+< < .field public static mNtpSetByMDM:Z
+< ---
+< > .field public static mNtpSetByMDM:Z = false
+< 7c7
+< < .field public static mBootCompleted:Z
+< ---
+< > .field public static mBootCompleted:Z = false
+< 7c7
+< < .field public static TEST_GROUP_enabled:Z
+< ---
+< > .field public static TEST_GROUP_enabled:Z = false
+< 9c9
+< < .field public static WM_DEBUG_ADD_REMOVE_enabled:Z
+< ---
+< > .field public static WM_DEBUG_ADD_REMOVE_enabled:Z = false
+< 11c11
+< < .field public static WM_DEBUG_ANIM_enabled:Z
+< ---
+< > .field public static WM_DEBUG_ANIM_enabled:Z = false
+< 13c13
+< < .field public static WM_DEBUG_APP_TRANSITIONS_ANIM_enabled:Z
+< ---
+< > .field public static WM_DEBUG_APP_TRANSITIONS_ANIM_enabled:Z = false
+< 15c15
+< < .field public static WM_DEBUG_APP_TRANSITIONS_enabled:Z
+< ---
+< > .field public static WM_DEBUG_APP_TRANSITIONS_enabled:Z = false
+< 17c17
+< < .field public static WM_DEBUG_BACK_PREVIEW_enabled:Z
+< ---
+< > .field public static WM_DEBUG_BACK_PREVIEW_enabled:Z = false
+< 19c19
+< < .field public static WM_DEBUG_BOOT_enabled:Z
+< ---
+< > .field public static WM_DEBUG_BOOT_enabled:Z = false
+< 21c21
+< < .field public static WM_DEBUG_CONFIGURATION_enabled:Z
+< ---
+< > .field public static WM_DEBUG_CONFIGURATION_enabled:Z = false
+< 23c23
+< < .field public static WM_DEBUG_CONTAINERS_enabled:Z
+< ---
+< > .field public static WM_DEBUG_CONTAINERS_enabled:Z = false
+< 25c25
+< < .field public static WM_DEBUG_CONTENT_RECORDING_enabled:Z
+< ---
+< > .field public static WM_DEBUG_CONTENT_RECORDING_enabled:Z = false
+< 27c27
+< < .field public static WM_DEBUG_DRAW_enabled:Z
+< ---
+< > .field public static WM_DEBUG_DRAW_enabled:Z = false
+< 29c29
+< < .field public static WM_DEBUG_DREAM_enabled:Z
+< ---
+< > .field public static WM_DEBUG_DREAM_enabled:Z = false
+< 31c31
+< < .field public static WM_DEBUG_FOCUS_LIGHT_enabled:Z
+< ---
+< > .field public static WM_DEBUG_FOCUS_LIGHT_enabled:Z = false
+< 33c33
+< < .field public static WM_DEBUG_FOCUS_enabled:Z
+< ---
+< > .field public static WM_DEBUG_FOCUS_enabled:Z = false
+< 35c35
+< < .field public static WM_DEBUG_IME_enabled:Z
+< ---
+< > .field public static WM_DEBUG_IME_enabled:Z = false
+< 37c37
+< < .field public static WM_DEBUG_IMMERSIVE_enabled:Z
+< ---
+< > .field public static WM_DEBUG_IMMERSIVE_enabled:Z = false
+< 39c39
+< < .field public static WM_DEBUG_INPUT_enabled:Z
+< ---
+< > .field public static WM_DEBUG_INPUT_enabled:Z = false
+< 41c41
+< < .field public static WM_DEBUG_KEEP_SCREEN_ON_enabled:Z
+< ---
+< > .field public static WM_DEBUG_KEEP_SCREEN_ON_enabled:Z = false
+< 43c43
+< < .field public static WM_DEBUG_LOCKTASK_enabled:Z
+< ---
+< > .field public static WM_DEBUG_LOCKTASK_enabled:Z = false
+< 45c45
+< < .field public static WM_DEBUG_ORIENTATION_enabled:Z
+< ---
+< > .field public static WM_DEBUG_ORIENTATION_enabled:Z = false
+< 47c47
+< < .field public static WM_DEBUG_RECENTS_ANIMATIONS_enabled:Z
+< ---
+< > .field public static WM_DEBUG_RECENTS_ANIMATIONS_enabled:Z = false
+< 49c49
+< < .field public static WM_DEBUG_REMOTE_ANIMATIONS_enabled:Z
+< ---
+< > .field public static WM_DEBUG_REMOTE_ANIMATIONS_enabled:Z = false
+< 51c51
+< < .field public static WM_DEBUG_RESIZE_enabled:Z
+< ---
+< > .field public static WM_DEBUG_RESIZE_enabled:Z = false
+< 53c53
+< < .field public static WM_DEBUG_SCREEN_ON_enabled:Z
+< ---
+< > .field public static WM_DEBUG_SCREEN_ON_enabled:Z = false
+< 55c55
+< < .field public static WM_DEBUG_STARTING_WINDOW_enabled:Z
+< ---
+< > .field public static WM_DEBUG_STARTING_WINDOW_enabled:Z = false
+< 57c57
+< < .field public static WM_DEBUG_STATES_enabled:Z
+< ---
+< > .field public static WM_DEBUG_STATES_enabled:Z = false
+< 59c59
+< < .field public static WM_DEBUG_SWITCH_enabled:Z
+< ---
+< > .field public static WM_DEBUG_SWITCH_enabled:Z = false
+< 61c61
+< < .field public static WM_DEBUG_SYNC_ENGINE_enabled:Z
+< ---
+< > .field public static WM_DEBUG_SYNC_ENGINE_enabled:Z = false
+< 63c63
+< < .field public static WM_DEBUG_TASKS_enabled:Z
+< ---
+< > .field public static WM_DEBUG_TASKS_enabled:Z = false
+< 65c65
+< < .field public static WM_DEBUG_WALLPAPER_enabled:Z
+< ---
+< > .field public static WM_DEBUG_WALLPAPER_enabled:Z = false
+< 67c67
+< < .field public static WM_DEBUG_WINDOW_INSETS_enabled:Z
+< ---
+< > .field public static WM_DEBUG_WINDOW_INSETS_enabled:Z = false
+< 69c69
+< < .field public static WM_DEBUG_WINDOW_MOVEMENT_enabled:Z
+< ---
+< > .field public static WM_DEBUG_WINDOW_MOVEMENT_enabled:Z = false
+< 71c71
+< < .field public static WM_DEBUG_WINDOW_ORGANIZER_enabled:Z
+< ---
+< > .field public static WM_DEBUG_WINDOW_ORGANIZER_enabled:Z = false
+< 73c73
+< < .field public static WM_DEBUG_WINDOW_TRANSITIONS_MIN_enabled:Z
+< ---
+< > .field public static WM_DEBUG_WINDOW_TRANSITIONS_MIN_enabled:Z = false
+< 75c75
+< < .field public static WM_DEBUG_WINDOW_TRANSITIONS_enabled:Z
+< ---
+< > .field public static WM_DEBUG_WINDOW_TRANSITIONS_enabled:Z = false
+< 77c77
+< < .field public static WM_ERROR_enabled:Z
+< ---
+< > .field public static WM_ERROR_enabled:Z = false
+< 79c79
+< < .field public static WM_FORCE_DEBUG_ADD_REMOVE_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_ADD_REMOVE_enabled:Z = false
+< 81c81
+< < .field public static WM_FORCE_DEBUG_ANIM_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_ANIM_enabled:Z = false
+< 83c83
+< < .field public static WM_FORCE_DEBUG_APP_TRANSITIONS_ANIM_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_APP_TRANSITIONS_ANIM_enabled:Z = false
+< 85c85
+< < .field public static WM_FORCE_DEBUG_APP_TRANSITIONS_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_APP_TRANSITIONS_enabled:Z = false
+< 87c87
+< < .field public static WM_FORCE_DEBUG_BOOT_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_BOOT_enabled:Z = false
+< 89c89
+< < .field public static WM_FORCE_DEBUG_CONFIGURATION_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_CONFIGURATION_enabled:Z = false
+< 91c91
+< < .field public static WM_FORCE_DEBUG_DRAW_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_DRAW_enabled:Z = false
+< 93c93
+< < .field public static WM_FORCE_DEBUG_FOCUS_LIGHT_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_FOCUS_LIGHT_enabled:Z = false
+< 95c95
+< < .field public static WM_FORCE_DEBUG_FOCUS_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_FOCUS_enabled:Z = false
+< 97c97
+< < .field public static WM_FORCE_DEBUG_IME_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_IME_enabled:Z = false
+< 99c99
+< < .field public static WM_FORCE_DEBUG_KEEP_SCREEN_ON_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_KEEP_SCREEN_ON_enabled:Z = false
+< 101c101
+< < .field public static WM_FORCE_DEBUG_ORIENTATION_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_ORIENTATION_enabled:Z = false
+< 103c103
+< < .field public static WM_FORCE_DEBUG_RECENTS_ANIMATIONS_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_RECENTS_ANIMATIONS_enabled:Z = false
+< 105c105
+< < .field public static WM_FORCE_DEBUG_REMOTE_ANIMATIONS_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_REMOTE_ANIMATIONS_enabled:Z = false
+< 107c107
+< < .field public static WM_FORCE_DEBUG_RESIZE_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_RESIZE_enabled:Z = false
+< 109c109
+< < .field public static WM_FORCE_DEBUG_SCREEN_ON_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_SCREEN_ON_enabled:Z = false
+< 111c111
+< < .field public static WM_FORCE_DEBUG_STARTING_WINDOW_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_STARTING_WINDOW_enabled:Z = false
+< 113c113
+< < .field public static WM_FORCE_DEBUG_SYNC_ENGINE_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_SYNC_ENGINE_enabled:Z = false
+< 115c115
+< < .field public static WM_FORCE_DEBUG_WINDOW_MOVEMENT_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_WINDOW_MOVEMENT_enabled:Z = false
+< 117c117
+< < .field public static WM_FORCE_DEBUG_WINDOW_TRANSITIONS_enabled:Z
+< ---
+< > .field public static WM_FORCE_DEBUG_WINDOW_TRANSITIONS_enabled:Z = false
+< 119c119
+< < .field public static WM_FORCE_SHOW_SURFACE_ALLOC_enabled:Z
+< ---
+< > .field public static WM_FORCE_SHOW_SURFACE_ALLOC_enabled:Z = false
+< 121c121
+< < .field public static WM_FORCE_SHOW_TRANSACTIONS_enabled:Z
+< ---
+< > .field public static WM_FORCE_SHOW_TRANSACTIONS_enabled:Z = false
+< 123c123
+< < .field public static WM_SHOW_SURFACE_ALLOC_enabled:Z
+< ---
+< > .field public static WM_SHOW_SURFACE_ALLOC_enabled:Z = false
+< 125c125
+< < .field public static WM_SHOW_TRANSACTIONS_enabled:Z
+< ---
+< > .field public static WM_SHOW_TRANSACTIONS_enabled:Z = false
+< 7c7
+< < .field public static sIsEnabled:Z
+< ---
+< > .field public static sIsEnabled:Z = false
+< 9c9
+< < .field private static sDebug:Z
+< ---
+< > .field private static sDebug:Z = false
