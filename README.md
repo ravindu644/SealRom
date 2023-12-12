@@ -4,9 +4,9 @@ SealRom is a free and open source modification that works on various samsung dev
 Tested devices:
 Note 10 exynos OneUI 6 from S22U
 
-Bugs
+Bugs :Volte and face id
 
-Volte and face id
+
 
 How to port OneUI 6 ?
 
