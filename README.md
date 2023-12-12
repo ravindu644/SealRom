@@ -6,6 +6,7 @@ To boot on OneUI 6 apply modify system.img by following this guide and flash pro
 
 Requirements to test OneUI 6 port
 *Selinux Permissive kernel
+
 *vndk30 or higher vendor
 
   HOW TO APPLY SEALROM PATCHES
