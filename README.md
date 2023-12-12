@@ -71,5 +71,7 @@ persist.sys.no_req_encrypt=true
 
 
 (The order of the lines in build prop doesn't matter)
+
+
 12.Delete 
 \system\preload\Facebook_stub_preload\
