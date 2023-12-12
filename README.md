@@ -7,6 +7,10 @@ TODO
 
 To apply services.jar patches you have to decompile framework/services.jar and apply the patch file on the source with git
 
+Requirements to test OneUI 6 port
+*Selinux Permissive kernel
+
+
   HOW TO BUILD IT ?
 
 1. Remove fabric_crypto from bin
@@ -77,3 +81,7 @@ persist.sys.no_req_encrypt=true
 
 12.Delete 
 \system\preload\Facebook_stub_preload\
+
+NOTES 
+
+if you are planning to upload on xda a rom that uses these patches , add source link to the thread.
