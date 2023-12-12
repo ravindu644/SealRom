@@ -2,8 +2,9 @@
 SealRom is a free and open source modification that works on various samsung devices but mostly on exynos.
 TODO
 * reorganize and document the source code better
+  HOW TO APPLY SEALROM PATCHES
 
-
+To apply services.jar patches you have to decompile framework/services.jar and apply the patch file on the source with git
 
   HOW TO BUILD IT ?
 
