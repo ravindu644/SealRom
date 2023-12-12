@@ -8,7 +8,7 @@ TODO
   HOW TO BUILD IT ?
 
 1. Remove fabric_crypto from bin
-2. 
+ 
 2.replace whole folder cameradata folder from stock
 
 3.Go to etc/init/hw/init.rc  Search for '#Storage F/W update' or ''ffu' add a # in front of 'ffu' and 'ssr' which is located 1 line under
