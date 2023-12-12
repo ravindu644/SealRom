@@ -15,6 +15,7 @@ To apply services.jar patches you have to decompile framework/services.jar and a
 
   HOW TO BUILD IT ?
 
+
 1. Remove fabric_crypto from bin
  
 2.replace whole folder cameradata folder from stock
