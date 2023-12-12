@@ -2,6 +2,7 @@
 SealRom is a free and open source modification that works on various samsung devices but mostly on exynos.
 
 How to port OneUI 6 ?
+
 To boot on OneUI 6 apply modify system.img by following this guide and flash product.img  from target device 
 
 Requirements to test OneUI 6 port
