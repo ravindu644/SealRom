@@ -1,14 +1,16 @@
 # SealRom
 SealRom is a free and open source modification that works on various samsung devices but mostly on exynos.
 
-TODO
-* reorganize and document the source code better
-  HOW TO APPLY SEALROM PATCHES
-
-To apply services.jar patches you have to decompile framework/services.jar and apply the patch file on the source with git
+How to port OneUI 6 ?
+To boot on OneUI 6 apply modify system.img by following this guide and flash product.img  from target device 
 
 Requirements to test OneUI 6 port
 *Selinux Permissive kernel
+*vndk30 or higher vendor
+
+  HOW TO APPLY SEALROM PATCHES
+
+To apply services.jar patches you have to decompile framework/services.jar and apply the patch file on the source with git
 
 
   HOW TO BUILD IT ?
@@ -81,6 +83,9 @@ persist.sys.no_req_encrypt=true
 
 12.Delete 
 \system\preload\Facebook_stub_preload\
+
+TODO
+* reorganize and document the source code better
 
 NOTES 
 
