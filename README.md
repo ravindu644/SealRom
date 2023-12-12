@@ -6,6 +6,7 @@ How to port OneUI 6 ?
 To boot on OneUI 6 apply modify system.img by following this guide and flash product.img  from target device 
 
 Requirements to test OneUI 6 port
+
 *Selinux Permissive kernel
 
 *vndk30 or higher vendor
